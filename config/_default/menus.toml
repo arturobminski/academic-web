@@ -24,6 +24,11 @@
 #  weight = 40
 
 [[main]]
+  name = "Documents"
+  url = "#documents"
+  weight = 55
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
