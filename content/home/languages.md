@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "us"
+  icon = ":us:"
   icon_pack = "emoji"
   name = "English"
   description = "Fluent"
@@ -33,7 +33,7 @@ subtitle = ""
   description = "Advanced"
 
 [[feature]]
-  icon = "es"
+  icon = ":es:"
   icon_pack = "emoji"
   name = "Spanish"
   description = "Advanced"
