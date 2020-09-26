@@ -19,7 +19,7 @@ design:
   columns: "1"
   background:
     image: headers/bubbles-wide.jpg
-    image_darken: 0.6
+    image_darken: 0.2
     image_parallax: true
     image_position: center
     image_size: cover
@@ -28,16 +28,11 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Welcome to the demo of the **resumé template** for Academic.
+**Paris School of Economics**
 
-[View more templates](https://sourcethemes.com/academic/templates/) for Academic.
+[M2: Public Economics: Pre-Exam Summary](http://arturobminski.com/pse/public/)
 
-**Over 500,000 [Amazing Websites](https://sourcethemes.com/academic/) have Already Been Built with Academic**
+[M1: Measurement of Policy Outcomes: Pre-Exam Summary](http://arturobminski.com/pse/measurement/)
 
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
+[M1: Introduction to Economic History: Pre-Exam Summary](http://arturobminski.com/pse/intro-ecohist/)
 
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /alert %}}
