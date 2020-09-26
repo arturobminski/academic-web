@@ -1,12 +1,12 @@
 ---
 title: Artur Obminski
-role: MRes in Applied Economics with a specialization in Public Policy and
-  Development
+role: MRes in Applied Economics, Research Assistant in Economics
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Urban Economics
+  - Development Economics
+  - Economics of Migration
+  - Economics of Education
 social:
   - icon: envelope
     icon_pack: fas
