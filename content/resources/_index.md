@@ -15,4 +15,4 @@ header:
   image: ""
 ---
 
-**Here** are some resources.
+On these pages, I have made some resources available to aid learning.
