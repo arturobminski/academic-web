@@ -1,7 +1,7 @@
 ---
 title: Artur Obminski
 role: MRes in Applied Economics, Research Assistant in Economics
-bio: ""
+bio: TO BE WRITTEN
 interests:
   - Urban Economics
   - Development Economics
