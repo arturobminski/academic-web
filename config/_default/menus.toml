@@ -24,8 +24,8 @@
 #  weight = 40
 
 [[main]]
-  name = "Documents"
-  url = "#documents"
+  name = "Resources"
+  url = "/resources"
   weight = 55
 
 [[main]]
