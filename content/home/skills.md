@@ -33,14 +33,14 @@ subtitle = ""
   description = "Intermediate"
 
 [[feature]]
-  icon = "globe-stand"
+  icon = "globe"
   icon_pack = "fas"
   name = "QGIS"
   description = "Beginner"
 
 [[feature]]
   icon = "python"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Python"
   description = "Beginner"
 
