@@ -43,10 +43,8 @@ user_groups:
   - Visitors
 ---
 
-Better understanding my surroundings and the world, and sharing my insights, is fundamental to most of what I do at work, in school, and in life at large.
+Better understanding society, and sharing my insights, is fundamental to most of what I do.
 
 From the Paris School of Economics, I am well trained in using quantitative tools, including R, Stata, and GIS, to analyze data for policy relevant insights. In addition, I have the theoretical underpinnings in topics such as education, development, political economy, and public economics to put them into context.
 
 Currently, as a Research Assistant at the Stockholm School of Economics, I work on topics such as immigration, education, political representation, and the COVID-19 epidemic.
-
-You are very welcome to read more here on my website as well as on my [Linkedin](http://www.linkedin.com/in/arturobminski).
