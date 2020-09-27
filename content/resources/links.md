@@ -8,7 +8,7 @@ This page provides links to potentially useful tools for research and academic w
 
 ## Tools
 
-Generate Tikz graphics for Latex: [Mathcha](https://www.mathcha.io/)
+[Mathcha](https://www.mathcha.io/): Generate Tikz graphics for Latex
 
 ## Data sources
 
