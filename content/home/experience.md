@@ -25,7 +25,8 @@ date_format = "Jan 2006"
   date_start = "2020-08-17"
   date_end = ""
   description = """
-  * Quantitative analysis, research, and teaching in development economics and other fields
+  * Quantitative analysis in Stata, literature research, project implementation, and liaison with external partners
+  * Projects on immigrant integration, child literacy, political representation, and COVID-19 in Sweden, India, and Uganda
   """
 
 [[experience]]
