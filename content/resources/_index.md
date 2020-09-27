@@ -2,6 +2,7 @@
 title: Resources
 type: book
 weight: 110
+toc: false
 
 # View.
 #   1 = List
