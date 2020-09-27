@@ -19,33 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Paris School of Economics"
+  organization_url = "https://www.parisschoolofeconomics.eu"
+  title = "Highest Honors (Summa Cum Laude)"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2020-09-28"
   date_end = ""
-  description = ""
+  description = "Achieved as part of my master's degree in Applied Economics."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "CITI Program"
+  organization_url = "https://www.citiprogram.org"
+  title = "Social & Behavioral Research Investigators"
+  url = "https://about.citiprogram.org/en/series/human-subjects-research-hsr"
+  certificate_url = "https://www.citiprogram.org/verify/?w3c787fc4-e200-4f15-8c1e-5ed3d4a76e03-37903815/"
+  date_start = "2020-08-18"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  description = "Ethics training for work with personally identifiable data, with the Abdul Latif Jameel Poverty Action Lab (J-PAL)."
+
 
 +++
