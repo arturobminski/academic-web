@@ -11,10 +11,10 @@ Here are some summaries that I made while studying the master's in Public Policy
 
 ## M2
 
-[Public Economics: Pre-Exam Summary](http://arturobminski.com/pse/public/)
+[Public Economics: Pre-Exam Summary](http://files.arturobminski.com/pse/public/)
 
 ## M1
 
-[Measurement of Policy Outcomes: Pre-Exam Summary](http://arturobminski.com/pse/measurement/)
+[Measurement of Policy Outcomes: Pre-Exam Summary](http://files.arturobminski.com/pse/measurement/)
 
-[Introduction to Economic History: Pre-Exam Summary](http://arturobminski.com/pse/intro-ecohist/)
+[Introduction to Economic History: Pre-Exam Summary](http://files.arturobminski.com/pse/intro-ecohist/)
