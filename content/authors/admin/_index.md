@@ -45,8 +45,8 @@ user_groups:
 
 Better understanding my surroundings and the world, and sharing my insights, is fundamental to most of what I do at work, in school, and in life at large.
 
-With a master's degree in Applied Economics from the Paris School of Economics, I am well trained to use quantitative methods and tools, including R, Stata, and GIS, to analyze diverse sets of data and extract policy relevant conclusions. In addition, my theoretical formation in important topics such as education, development, political economy, and public economics helps me put those conclusions in a context to inform broader decision making.
+From the Paris School of Economics, I am well trained in using quantitative tools, including R, Stata, and GIS, to analyze diverse data and extract policy relevant conclusions. In addition, my theoretical formation in topics such as education, development, political economy, and public economics helps me put those conclusions into context.
 
-Currently, as a Research Assistant at the Stockholm School of Economics, I work on diverse topics such as immigrant integration, child literacy, political representation, and health impacts of the COVID-19 epidemic, applying what I have learnt at PSE and developing further, not least in terms of quantitative analysis and project implementation, including questionnaire design, partner liaison, and administration of surveying.
+Currently, as a Research Assistant at the Stockholm School of Economics, I work on diverse topics such as immigrant integration, child literacy, political representation, and health impacts of the COVID-19 epidemic.
 
 You are very welcome to read more here on my website as well as on my [Linkedin](http://www.linkedin.com/in/arturobminski).
