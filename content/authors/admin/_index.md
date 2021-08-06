@@ -1,12 +1,13 @@
 ---
 title: Artur Obminski
-role: MRes in Applied Economics, Research Assistant in Economics
+role: PhD Candidate in Economics
 bio: ""
 interests:
-  - Urban Economics
-  - Development Economics
+  - Political Economy
+  - Economic History
   - Economics of Migration
-  - Economics of Education
+  - Development Economics
+  - Urban Economics
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,12 +22,15 @@ social:
     icon_pack: fab
     link: https://github.com/arturobminski
 organizations:
-  - name: Stockholm School of Economics
-    url: "http://www.hhs.se"
   - name: Paris School of Economics
     url: "http://www.parisschoolofeconomics.eu"
+  - name: Stockholm School of Economics
+    url: "http://www.hhs.se"
 education:
   courses:
+    - course: PhD in Economics (ongoing)
+      institution: Paris School of Economics
+      year: 2021-
     - course: MRes in Applied Economics with a specialization in Public Policy and
         Development
       institution: Paris School of Economics
@@ -43,8 +47,8 @@ user_groups:
   - Visitors
 ---
 
-Better understanding society, and sharing my insights, is fundamental to what I do.
+Currently a PhD candidate at the Paris School of Economics, I use tools such as R, Stata, and QGIS to study attitudes, interpersonal dynamics, and conflict. I also teach undergraduate economics at Université Paris 1 Panthéon-Sorbonne.
 
 From the Paris School of Economics, I am well trained in using quantitative tools, including R, Stata, and GIS, to analyze data for policy relevant insights. In addition, I have the theoretical underpinnings in topics such as education, development, political economy, and public economics to put them into context.
 
-Currently, as a Research Assistant at the Stockholm School of Economics, I work on topics such as immigration, education, political representation, and COVID-19.
+In years 2020 and 2021, I worked as a Research Assistant at the Stockholm School of Economics on topics such as immigration, education, political representation, and COVID-19.
