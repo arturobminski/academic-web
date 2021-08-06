@@ -24,12 +24,12 @@ social:
 organizations:
   - name: Paris School of Economics
     url: "http://www.parisschoolofeconomics.eu"
-  - name: Stockholm School of Economics
-    url: "http://www.hhs.se"
+  - name: Université Paris 1 Panthéon-Sorbonne
+    url: "https://www.pantheonsorbonne.fr"
 education:
   courses:
     - course: PhD in Economics (ongoing)
-      institution: Paris School of Economics
+      institution: Paris School of Economics & Université Paris 1 Panthéon-Sorbonne
       year: 2021-
     - course: MRes in Applied Economics with a specialization in Public Policy and
         Development
