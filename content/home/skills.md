@@ -36,7 +36,7 @@ subtitle = ""
   icon = "globe"
   icon_pack = "fas"
   name = "QGIS"
-  description = "Beginner"
+  description = "Intermediate"
 
 [[feature]]
   icon = "python"
