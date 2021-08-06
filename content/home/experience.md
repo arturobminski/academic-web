@@ -17,13 +17,27 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "PhD Candidate"
+  company = "Paris School of Economics & Université Paris 1 Panthéon-Sorbonne"
+  company_url = "http://www.parisschoolofeconomics.eu/"
+  location = "Paris, France"
+  date_start = "2020-09-01"
+  date_end = ""
+  description = """
+  * Studying attitudes, interpersonal dynamics, and conflict
+  * Using tools including R, Stata, and QGIS
+  * Teaching undergraduate economics
+  """
+
 [[experience]]
   title = "Research Assistant"
   company = "Stockholm School of Economics"
   company_url = "http://www.hhs.se/"
   location = "Stockholm, Sweden"
   date_start = "2020-08-17"
-  date_end = ""
+  date_end = "2021-08-13"
   description = """
   * Quantitative analysis in Stata, literature research, project implementation, and liaison with external partners
   * Projects on immigrant integration, child literacy, political representation, and COVID-19 in Sweden, India, and Uganda
