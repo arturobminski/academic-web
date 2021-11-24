@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company = "Paris School of Economics & Université Paris 1 Panthéon-Sorbonne"
   company_url = "http://www.parisschoolofeconomics.eu/"
   location = "Paris, France"
-  date_start = "2020-09-01"
+  date_start = "2021-09-01"
   date_end = ""
   description = """
   * Studying attitudes, interpersonal dynamics, and conflict
