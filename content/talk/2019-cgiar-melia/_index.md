@@ -8,10 +8,10 @@ date_end = 2019-10-03T17:00:00
 all_day = true
 
 # Schedule page publish date (NOT talk date).
-#publishDate = 2017-01-01T00:00:00
+publishDate = 2017-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-#authors = []
+authors = []
 
 # Location of event.
 location = "Amsterdam, Netherlands"
@@ -53,12 +53,12 @@ tags = []
 #projects = ["internal-project"]
 
 # Links (optional).
-#url_pdf = ""
-#url_video = ""
-#url_code = ""
+url_pdf = ""
+url_video = ""
+url_code = ""
 
 # Demo talk page uses LaTeX math.
-#math = true
+math = false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
