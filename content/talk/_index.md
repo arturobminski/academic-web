@@ -1,5 +1,5 @@
 ---
-title: Conferences & Presentations
+title: Conferences
 
 # View.
 #   1 = List
