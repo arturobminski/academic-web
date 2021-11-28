@@ -8,10 +8,10 @@ date_end = 2022-01-09T17:00:00
 all_day = true
 
 # Schedule page publish date (NOT talk date).
-#publishDate = 2017-01-01T00:00:00
+publishDate = 2017-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-#authors = []
+authors = []
 
 # Location of event.
 location = "Strasbourg, France; Warsaw, Poland"
@@ -24,7 +24,7 @@ event_url = "https://futureu.europa.eu"
 abstract = "Participated as a citizens' representative in the European Union conference to discuss and develop policy ideas for the future of the union. My panel focused on environment, climate, and health policy, and I focused especially on enviroment and climate, and within those topics, environmentally friendly public transportation."
 
 # Summary. An optional shortened abstract.
-#summary = "An example talk using Academic's Markdown slides feature."
+summary = "Participated as a citizens' representative in the European Union conference to discuss and develop policy ideas for the future of the union. My panel focused on enviroment and climate issues."
 
 # Is this a featured talk? (true/false)
 featured = false
@@ -53,12 +53,12 @@ tags = []
 #projects = ["internal-project"]
 
 # Links (optional).
-#url_pdf = ""
-#url_video = ""
-#url_code = ""
+url_pdf = ""
+url_video = ""
+url_code = ""
 
 # Demo talk page uses LaTeX math.
-#math = true
+math = false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
