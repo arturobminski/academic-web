@@ -24,3 +24,5 @@ url_video: ''
 ---
 
 Participated as a citizens' representative in the European Union conference to discuss and develop policy ideas for the future of the union. My panel focused on environment, climate, and health policy, and I focused especially on enviroment and climate, and within those topics, environmentally friendly public transportation.
+
+Citizen's representative for Sweden in Panel 3, meeting in Strasbourg, France; online; and in Warsaw, Poland.
