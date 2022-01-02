@@ -29,3 +29,8 @@ url_pdf: ''
 url_video: ''
 ---
 
+Presented my pilot work on the identification, collection, and harmonization of data on the dissemination and use of improved seed varieties in Uganda.
+
+Shared experiences and learnings with monitoring and evaluation and impact assessment officers across agricultural organizations, to inform similar exercises in other geographies and on other crops.
+
+The work was done for the Standing Panel on Impact Assessment (SPIA) of the CGIAR, in collaboration with HarvestPlus, the International Potato Center (CIP), the International Center for Tropical Agriculture (CIAT), Bioversity International, and the World Bank.
