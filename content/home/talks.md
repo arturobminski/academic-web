@@ -4,7 +4,7 @@ widget_id: event
 weight: 45
 title: Conferences
 subtitle: null
-active: true
+active: false
 content:
   page_type: event
   count: 2
