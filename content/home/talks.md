@@ -9,9 +9,9 @@ content:
   page_type: event
   count: 2
   filters:
-    author: ""
-    category: ""
-    tag: ""
+    #author: ""
+    #category: ""
+    #tag: ""
     exclude_featured: false
     exclude_future: false
     exclude_past: false
