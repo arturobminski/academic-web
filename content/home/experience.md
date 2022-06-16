@@ -26,7 +26,7 @@ experience:
   company_url: http://www.pantheonsorbonne.fr/
   date_end: '2022-06-30'
   date_start: '2022-01-01'
-  description: ""
+  description: "  * In charge of tutorials in Introduction to Econometrics course"
   location: Paris, France
   title: Teaching Assistant
 - company: Conference on the Future of Europe
