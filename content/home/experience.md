@@ -28,7 +28,7 @@ experience:
   date_start: '2022-01-01'
   description: "  * In charge of tutorials in Introduction to Econometrics course\n * Prepared\
     \ classes, taught, replied to students' questions, prepared midterm examinations\
-    \, and corrected examinations\n  "
+    \ , and corrected examinations\n  "
   location: Paris, France
   title: Teaching Assistant
 - company: Conference on the Future of Europe
