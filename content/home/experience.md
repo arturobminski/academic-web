@@ -22,6 +22,11 @@ experience:
     \ of data\n  * Working both independently and in teams\n  "
   location: Stockholm, Sweden
   title: Analyst
+- company: Université Paris 1 Panthéon-Sorbonne
+  company_url: http://www.pantheonsorbonne.fr/
+  date_end: '2022-06-30'
+  date_start: '2022-01-01'
+  description: ""
 - company: Stockholm School of Economics
   company_url: http://www.hhs.se/
   date_end: '2021-08-13'
