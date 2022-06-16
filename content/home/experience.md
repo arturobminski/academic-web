@@ -35,7 +35,8 @@ experience:
   company_url: https://futureu.europa.eu
   date_end: '2022-05-30'
   date_start: '2021-09-01'
-  description: "  * Citizen Representative in Panel 3 on Climate, Environment, and Health"
+  description: "  * Citizen Representative in Panel 3 on Climate, Environment, and Health\n * Working\
+  \ Group on Green Transportation\n  "
   location: Strasbourg, France
   title: Citizen Representative
 - company: Stockholm School of Economics
