@@ -3,9 +3,9 @@ title: Artur Obminski
 role: PhD Candidate in Economics
 bio: ""
 interests:
+  - Economics of Migration
   - Political Economy
   - Economic History
-  - Economics of Migration
   - Development Economics
   - Urban Economics
 social:
@@ -26,6 +26,8 @@ organizations:
     url: "http://www.parisschoolofeconomics.eu"
   - name: Université Paris 1 Panthéon-Sorbonne
     url: "https://www.pantheonsorbonne.fr"
+  - name: Mistra Center for Sustainable Markets
+    url: "https://www.hhs.se/misum"
 education:
   courses:
     - course: PhD in Economics (ongoing)
@@ -47,7 +49,7 @@ user_groups:
   - Visitors
 ---
 
-Currently a PhD candidate at the Paris School of Economics, I use tools such as R, Stata, and QGIS to study attitudes, interpersonal dynamics, and conflict. I also teach undergraduate economics at Université Paris 1 Panthéon-Sorbonne.
+Currently a PhD candidate at the Paris School of Economics, I use tools such as R, Stata, and QGIS to study international migration, attitudes, interpersonal dynamics, and conflict. I am also affiliated with Université Paris 1 Panthéon-Sorbonne, where I have taught undergraduate economics, and the Mistra Center for Sustainable Markets (Misum) at the Stockholm School of Economics.
 
 From the Paris School of Economics, I am well trained in using quantitative tools, including R, Stata, and GIS, to analyze data for policy relevant insights. In addition, I have the theoretical underpinnings in topics such as education, development, political economy, and public economics to put them into context.
 
