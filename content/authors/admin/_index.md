@@ -26,6 +26,8 @@ organizations:
     url: "http://www.parisschoolofeconomics.eu"
   - name: Université Paris 1 Panthéon-Sorbonne
     url: "https://www.pantheonsorbonne.fr"
+  - name: Institut Convergences Migrations
+    url: "https://www.icmigrations.cnrs.fr"
   - name: Mistra Center for Sustainable Markets
     url: "https://www.hhs.se/misum"
 education:
@@ -49,7 +51,7 @@ user_groups:
   - Visitors
 ---
 
-Currently a PhD candidate at the Paris School of Economics, I use tools such as R, Stata, and QGIS to study international migration, attitudes, interpersonal dynamics, and conflict. I am also affiliated with Université Paris 1 Panthéon-Sorbonne, where I have taught undergraduate economics, and the Mistra Center for Sustainable Markets (Misum) at the Stockholm School of Economics.
+Currently a PhD candidate at the Paris School of Economics, I use tools such as R, Stata, and QGIS to study international migration, attitudes, interpersonal dynamics, and conflict. I am also affiliated with Université Paris 1 Panthéon-Sorbonne, where I have taught undergraduate economics, the Mistra Center for Sustainable Markets (Misum) at the Stockholm School of Economics, and the Institut Convergences Migrations.
 
 From the Paris School of Economics, I am well trained in using quantitative tools, including R, Stata, and GIS, to analyze data for policy relevant insights. In addition, I have the theoretical underpinnings in topics such as education, development, political economy, and public economics to put them into context.
 
