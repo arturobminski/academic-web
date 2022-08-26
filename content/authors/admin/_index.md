@@ -23,9 +23,11 @@ social:
     link: https://github.com/arturobminski
 organizations:
   - name: Paris School of Economics
-    url: "http://www.parisschoolofeconomics.eu"
+    url: "https://www.parisschoolofeconomics.eu"
   - name: Université Paris 1 Panthéon-Sorbonne
     url: "https://www.pantheonsorbonne.fr"
+  - name: Stockholm University
+    url: "https://www.su.se/swedish-institute-for-social-research/"
   - name: Institut Convergences Migrations
     url: "https://www.icmigrations.cnrs.fr"
   - name: Mistra Center for Sustainable Markets
@@ -51,7 +53,7 @@ user_groups:
   - Visitors
 ---
 
-Currently a PhD candidate at the Paris School of Economics, I use tools such as R, Stata, and QGIS to study international migration, attitudes, interpersonal dynamics, and conflict. I am also affiliated with Université Paris 1 Panthéon-Sorbonne, where I have taught undergraduate economics, the Mistra Center for Sustainable Markets (Misum) at the Stockholm School of Economics, and the Institut Convergences Migrations.
+Currently a PhD candidate at the Paris School of Economics, I use tools such as R, Stata, and QGIS to study international migration, attitudes, interpersonal dynamics, and conflict. I am also affiliated with Université Paris 1 Panthéon-Sorbonne, where I have taught undergraduate economics, the Swedish Institute for Social Research (SOFI) at Stockholm University, the Mistra Center for Sustainable Markets (Misum) at the Stockholm School of Economics, and the Institut Convergences Migrations, a CNRS research institute.
 
 From the Paris School of Economics, I am well trained in using quantitative tools, including R, Stata, and GIS, to analyze data for policy relevant insights. In addition, I have the theoretical underpinnings in topics such as education, development, political economy, and public economics to put them into context.
 
