@@ -26,7 +26,7 @@ organizations:
     url: "https://www.parisschoolofeconomics.eu"
   - name: Université Paris 1 Panthéon-Sorbonne
     url: "https://www.pantheonsorbonne.fr"
-  - name: Stockholm University
+  - name: Swedish Institute for Social Research
     url: "https://www.su.se/swedish-institute-for-social-research/"
   - name: Institut Convergences Migrations
     url: "https://www.icmigrations.cnrs.fr"
