@@ -24,8 +24,8 @@ experience:
   title: Analyst
 - company: Conference on the Future of Europe
   company_url: https://futureu.europa.eu
-  date_end: '2022-05-30'
-  date_start: '2021-12-02'
+  date_end: '2022-12-02'
+  date_start: '2021-11-01'
   description: "  * Citizen Representative in Panel 3 on Climate, Environment, and Health\n * Working\
   \ Group on Green Transportation\n  "
   location: Strasbourg, France
