@@ -22,6 +22,14 @@ experience:
     \ of data\n  * Working both independently and in teams\n  "
   location: Stockholm, Sweden
   title: Analyst
+- company: Conference on the Future of Europe
+  company_url: https://futureu.europa.eu
+  date_end: '2022-05-30'
+  date_start: '2021-12-02'
+  description: "  * Citizen Representative in Panel 3 on Climate, Environment, and Health\n * Working\
+  \ Group on Green Transportation\n  "
+  location: Strasbourg, France
+  title: Citizen Representative
 - company: Université Paris 1 Panthéon-Sorbonne
   company_url: http://www.pantheonsorbonne.fr/
   date_end: '2022-06-30'
@@ -31,14 +39,6 @@ experience:
     \ , and corrected examinations\n  "
   location: Paris, France
   title: Teaching Assistant
-- company: Conference on the Future of Europe
-  company_url: https://futureu.europa.eu
-  date_end: '2022-05-30'
-  date_start: '2021-09-01'
-  description: "  * Citizen Representative in Panel 3 on Climate, Environment, and Health\n * Working\
-  \ Group on Green Transportation\n  "
-  location: Strasbourg, France
-  title: Citizen Representative
 - company: Stockholm School of Economics
   company_url: http://www.hhs.se/
   date_end: '2021-08-13'
