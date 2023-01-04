@@ -17,7 +17,7 @@ feature:
   icon: ':es:'
   icon_pack: emoji
   name: Spanish
-- description: Beginner
+- description: Intermediate
   icon: ':fr:'
   icon_pack: emoji
   name: French
