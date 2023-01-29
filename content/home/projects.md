@@ -8,9 +8,9 @@ content:
   page_type: projects
 design:
   background: {}
-  columns: '2'
+  columns: '1'
   flip_alt_rows: false
-  view: 3
+  view: 1
 headless: true
 subtitle: ''
 title: Projects
