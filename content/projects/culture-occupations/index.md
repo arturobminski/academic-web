@@ -1,6 +1,6 @@
 ---
 title: Cultural Effects on Occupational Choice and Labor Market Sorting
-summary: We analyze culturally linked preferences and norms as determinants of educational and occupational choices, with a focus on second generation migrants in Sweden. We also analyze the labor market sorting effects of such preferences.
+summary: We analyze culturally linked preferences and norms as determinants of educational and occupational choices, with a focus on second generation migrants in Sweden. We also analyze the labor market sorting effects of such preferences. (Joint work with Donia Kamel and Javier Soria Espín.)
 tags:
   - Economics of Migration
   - Labor Economics
