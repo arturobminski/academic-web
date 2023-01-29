@@ -1,8 +1,12 @@
 ---
 title: Cultural Effects on Occupational Choice and Labor Market Sorting
-summary: Joint work with Donia Kamel and Javier Soria Espín. We analyze culturally linked preferences and norms as determinants of educational and occupational choices, with a focus on second generation migrants in Sweden. We also analyze the labor market sorting effects of such preferences. The analyses are conducted using registry data from Statistics Sweden, with ethics approval from the Swedish Ethical Review Authority.
+summary: We analyze culturally linked preferences and norms as determinants of educational and occupational choices, with a focus on second generation migrants in Sweden. We also analyze the labor market sorting effects of such preferences.
 tags:
-  - Deep Learning
+  - Economics of Migration
+  - Labor Economics
+  - Economics of Culture
+  - Registry data
+  - Sweden
 date: '2023-01-20T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
