@@ -13,7 +13,7 @@ design:
   view: 2
 headless: true
 subtitle: ''
-title: Projects
+title: Research Projects
 weight: 25
 widget: portfolio
 ---
