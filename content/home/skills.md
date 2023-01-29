@@ -17,7 +17,7 @@ feature:
   icon: globe
   icon_pack: fas
   name: QGIS
-- description: Beginner
+- description: Intermediate
   icon: python
   icon_pack: fab
   name: Python
