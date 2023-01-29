@@ -5,7 +5,7 @@ advanced:
   css_style: ''
 content:
   filter_default: 0
-  page_type: project
+  page_type: projects
 design:
   background: {}
   columns: '2'
