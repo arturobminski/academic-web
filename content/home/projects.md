@@ -8,7 +8,7 @@ content:
   page_type: projects
 design:
   background: {}
-  columns: '1'
+  columns: '2'
   flip_alt_rows: false
   view: 2
 headless: true
