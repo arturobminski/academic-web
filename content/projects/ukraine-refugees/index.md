@@ -9,7 +9,7 @@ tags:
   - Natural Language Processing
   - Poland
   - Ukraine
-date: '2023-01-20T00:00:00Z'
+date: '2023-01-29T01:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
