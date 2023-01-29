@@ -7,7 +7,7 @@ experience:
   date_end: ''
   date_start: '2021-09-01'
   description: "  * Studying attitudes, interpersonal dynamics, and conflict\n  *\
-    \ Using tools including R, Stata, and QGIS\n  * Teaching undergraduate economics\n\
+    \ Using tools including R, Stata, and QGIS\n  * Teaching undergraduate econometrics\n\
     \  "
   location: Paris, France
   title: PhD Candidate
