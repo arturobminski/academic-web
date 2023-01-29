@@ -10,7 +10,7 @@ design:
   background: {}
   columns: '1'
   flip_alt_rows: false
-  view: 1
+  view: 2
 headless: true
 subtitle: ''
 title: Projects
