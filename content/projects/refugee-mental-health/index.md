@@ -1,6 +1,6 @@
 ---
 title: Uptake of Mental Health Support by Ukrainian Refugees in Germany
-summary: We develop and evaluate the effectiveness of interventions designed to address self-stigma and increase the uptake of mental health support among those Ukrainian refugees who are in need of such support. The interventions differ in both content and dissemination strategy, and are evaluated in a randomized controlled experiment (RCT). (Joint work with Alexandra Avdenko, Luc Behaghel, Esther Duflo, Yagan Hazard, and Alexander Moldavski.)
+summary: We develop and evaluate the effectiveness of interventions designed to address self-stigma and increase the uptake of mental health support among those Ukrainian refugees who are in need of such support. The interventions differ in both content and dissemination strategy, and are evaluated in a randomized controlled experiment (RCT). (Joint work with Alexandra Avdeenko, Luc Behaghel, Esther Duflo, Yagan Hazard, and Alexander Moldavski.)
 tags:
   - Economics of Migration
   - Health Economics
