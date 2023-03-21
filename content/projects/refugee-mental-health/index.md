@@ -34,7 +34,7 @@ url_video: ''
 #slides: example
 ---
 
-Joint work with Alexandra Avdenko (World Bank), Luc Behaghel (Paris School of Economics, INRAE), Esther Duflo (Massachussets Institute of Technology), Yagan Hazard (Collegio Alberto), and Alexander Moldavski (ZI Mannheim).
+Joint work with Alexandra Avdeenko (World Bank), Luc Behaghel (Paris School of Economics, INRAE), Esther Duflo (Massachussets Institute of Technology), Yagan Hazard (Collegio Alberto), and Alexander Moldavski (ZI Mannheim).
 
 We develop and evaluate the effectiveness of interventions designed to address self-stigma and increase the uptake of mental health support among those Ukrainian refugees who are in need of such support.
 
