@@ -1,6 +1,6 @@
 ---
 title: Uptake of Mental Health Support by Ukrainian Refugees in Germany
-summary: We develop and evaluate the effectiveness of interventions designed to address self-stigma and increase the uptake of mental health support among those Ukrainian refugees who are in need of such support. The interventions differ in both content and dissemination strategy, and are evaluated in a randomized controlled experiment (RCT). (Joint work with Alexandra Avdeenko, Luc Behaghel, Esther Duflo, Yagan Hazard, Alexander Moldavski, and Nicolas Rüsch.)
+summary: We develop and evaluate the effectiveness of interventions designed to address self-stigma and increase the uptake of mental health support among those Ukrainian refugees who are in need of such support, in a novel social media design. The interventions differ in both content and dissemination strategy, and are evaluated in a randomized controlled experiment (RCT). (Joint work with Alexandra Avdeenko, Luc Behaghel, Esther Duflo, Yagan Hazard, Alexander Moldavski, and Nicolas Rüsch.)
 tags:
   - Economics of Migration
   - Health Economics
@@ -39,6 +39,6 @@ Joint work with Alexandra Avdeenko (World Bank), Luc Behaghel (Paris School of E
 
 We develop and evaluate the effectiveness of interventions designed to address self-stigma and increase the uptake of mental health support among those Ukrainian refugees who are in need of such support.
 
-The interventions differ in both content and dissemination strategy, and are evaluated in a randomized controlled experiment (RCT).
+Using a novel social media based approach, and custom developed dissemination and measurement tools, we compare two message concepts and two dissemination approaches in a randomized controlled experiment (RCT).
 
-The interventions and experiment are carried out largely online, in partnership with established institutions in Germany. Extensions to other countries may be possible at a later date.
+The interventions and experiment are carried out in partnership with established institutions in Germany. Extensions to other countries may be possible at a later date.
