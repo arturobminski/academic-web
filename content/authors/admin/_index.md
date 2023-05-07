@@ -5,6 +5,7 @@ bio: ""
 interests:
   - Economics of Migration
   - Political Economy
+  - Cultural Economics
   - Economic History
   - Development Economics
   - Urban Economics
