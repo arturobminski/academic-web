@@ -1,6 +1,6 @@
 ---
-title: Ukrainian Refugee Mobility in Poland and Intergroup Attitudes
-summary: Using machine learning and natural language processing methods applied to novel big data on mobility patterns, I analyze the causes and effects of Ukrainian refugees' mobility to and in Poland in relation to the escalation of the Russian invasion of Ukraine in February, 2022.
+title: Hyper-Local Behavioral Responses to Ukrainian Migration to Poland
+summary: Using machine learning and natural language processing methods applied to novel big data of 4.2 million establishment reviews, and with a discrete choice model, I analyze the consumption patterns of Polish natives and Ukrainian migrants and reactions to outgroup contact, with a focus on whether individuals shift away from or to neighborhoods with higher outgroup presence.
 tags:
   - Economics of Migration
   - Political Economy
@@ -9,7 +9,7 @@ tags:
   - Natural Language Processing
   - Poland
   - Ukraine
-date: '2023-01-29T01:00:00Z'
+date: '2024-01-20T01:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -36,6 +36,6 @@ url_video: ''
 #slides: example
 ---
 
-Using machine learning and natural language processing methods applied to novel big data on mobility patterns, I analyze the causes and effects of Ukrainian refugees' mobility to and in Poland in relation to the escalation of the Russian invasion of Ukraine in February, 2022.
+Using machine learning and natural language processing methods applied to novel big data of 4.2 million establishment reviews, and with a discrete choice model, I analyze the consumption patterns of Polish natives and Ukrainian migrants and reactions to outgroup contact, with a focus on whether individuals shift away from or to neighborhoods with higher outgroup presence.
 
-I study questions related to the determinants of Ukrainians' mobility patterns and choices of settlement location, intergroup interactions and attitudes, and refugees' investment in long term settlement and labor market participation.
+I also study which types of establishments are conducive to successful integration and how local determinants, individual socio-demographic factors, and media coverage, affect these outcomes. I do so in the context of the immigration of more than one million Ukrainian refugees to Poland since the Russian full-scale invasion of Ukraine in February 2022.
