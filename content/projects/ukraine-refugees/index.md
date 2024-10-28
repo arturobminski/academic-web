@@ -1,6 +1,6 @@
 ---
 title: Hyper-Local Behavioral Responses to Ukrainian Migration to Poland
-summary: Using machine learning and natural language processing methods applied to novel big data of 4.2 million establishment reviews, and with a discrete choice model, I analyze the consumption patterns of Polish natives and Ukrainian migrants and reactions to outgroup contact, with a focus on whether individuals shift away from or to neighborhoods with higher outgroup presence.
+summary: Using machine learning and natural language processing methods applied to novel big data of establishment reviews, and with a discrete choice model, I analyze whether the everyday consumption and mobility patterns of Polish natives shift with Ukrainian migrant arrival, away from local neighborhoods where the likelihood of migrant exposure is the highest.
 tags:
   - Economics of Migration
   - Political Economy
@@ -36,6 +36,6 @@ url_video: ''
 #slides: example
 ---
 
-Using machine learning and natural language processing methods applied to novel big data of 4.2 million establishment reviews, and with a discrete choice model, I analyze the consumption patterns of Polish natives and Ukrainian migrants and reactions to outgroup contact, with a focus on whether individuals shift away from or to neighborhoods with higher outgroup presence.
+Using machine learning and natural language processing methods applied to novel big data of establishment reviews, and with a discrete choice model, I analyze whether the everyday consumption and mobility patterns of Polish natives shift with Ukrainian migrant arrival, away from local neighborhoods where the likelihood of migrant exposure is the highest, and the concentration of these effects in places which are otherwise most conducive to social mixing. As such, I consider how individual choices affect whether, and under which conditions, intergroup contact can take place, and hence how likely the potentially positive effects of contact are to be realized.
 
-I also study which types of establishments are conducive to successful integration and how local determinants, individual socio-demographic factors, and media coverage, affect these outcomes. I do so in the context of the immigration of more than one million Ukrainian refugees to Poland since the Russian full-scale invasion of Ukraine in February 2022.
+The study is conducted in the context of the immigration of more than one million Ukrainian refugees to Poland since the Russian full-scale invasion of Ukraine in February 2022.
