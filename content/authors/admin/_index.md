@@ -54,7 +54,7 @@ user_groups:
   - Visitors
 ---
 
-Currently a PhD candidate at the Paris School of Economics visiting University of California Los Angeles, I use tools such as Python, R, Stata, and QGIS to study international migration, attitudes, culture, and conflict. I am also affiliated with Université Paris 1 Panthéon-Sorbonne, where I have taught undergraduate econometrics, the Swedish Institute for Social Research (SOFI) at Stockholm University, the Mistra Center for Sustainable Markets (Misum) at the Stockholm School of Economics, and the Institut Convergences Migrations, a CNRS research institute.
+Currently a PhD candidate at the Paris School of Economics, I use tools such as Python, R, Stata, and QGIS to study international migration, attitudes, culture, and conflict. I am also affiliated with Université Paris 1 Panthéon-Sorbonne, where I am teaching Statistics and Probability and have previously taught econometrics, the Swedish Institute for Social Research (SOFI) at Stockholm University, the Mistra Center for Sustainable Markets (Misum) at the Stockholm School of Economics, and the Institut Convergences Migrations, a CNRS research institute.
 
 From the Paris School of Economics, I am well trained in using quantitative tools, including R, Stata, and GIS, to analyze data for policy relevant insights. In addition, I have the theoretical underpinnings in topics such as education, development, political economy, and public economics to put them into context.
 
