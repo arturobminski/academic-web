@@ -1,5 +1,5 @@
 ---
-title: Hyper-Local Behavioral Responses to Ukrainian Migration to Poland
+title: See the Migrants, Cross the Street? Endogenous Selection Out of Exposure to Migrants
 summary: Using machine learning and natural language processing methods applied to novel big data of establishment reviews, and with a discrete choice model, I analyze whether the everyday consumption and mobility patterns of Polish natives shift with Ukrainian migrant arrival, away from local neighborhoods where the likelihood of migrant exposure is the highest.
 tags:
   - Economics of Migration
