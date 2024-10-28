@@ -13,8 +13,8 @@ experience:
   title: PhD Candidate
 - company: Université Paris 1 Panthéon-Sorbonne
   company_url: http://www.pantheonsorbonne.fr/
-  date_end: '2024-08-31'
-  date_start: ''
+  date_end: '2025-08-31'
+  date_start: '2024-09-01'
   description: "  * In charge of tutorials for approximately 120 students of the Statistics and Probability course\n
   * Fully in French, planning, teaching, grading, and administering\n  "
   location: Paris, France
