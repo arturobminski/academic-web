@@ -15,8 +15,7 @@ experience:
   company_url: http://www.pantheonsorbonne.fr/
   date_end: '2024-08-31'
   date_start: ''
-  description: "  * In charge of tutorials for approximately 120 students of the Statistics and Probability course\n
-  * Fully in French, planning, teaching, grading, and administering"
+  description: ""
   location: Paris, France
   title: Teaching and Research Fellow (ATER)
 - company: Whispr Group
