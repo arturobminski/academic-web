@@ -16,7 +16,7 @@ social:
   - link: https://www.linkedin.com/in/arturobminski
     icon_pack: fab
     icon: linkedin
-  - icon: cloud
+  - icon: bluesky
     icon_pack: fab
     link: https://bsky.app/profile/arturobminski.com
   - icon: twitter
