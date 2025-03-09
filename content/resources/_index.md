@@ -16,4 +16,4 @@ header:
   image: ""
 ---
 
-On these pages, I have made some resources available to aid learning.
+On these pages, I have made some resources available to aid learning. Please consider the navigation menu on the left of this page.
