@@ -6,8 +6,8 @@ experience:
   company_url: http://www.parisschoolofeconomics.eu/
   date_end: ''
   date_start: '2021-09-01'
-  description: "  * Studying attitudes, interpersonal dynamics, and conflict\n  *\
-    \ Using tools including R, Stata, and QGIS\n  * Teaching undergraduate econometrics\n\
+  description: "  * Migration economics, with a focus on integration, mental health, and labor/education\n  *\
+    \ Using Python, R, Stata, and QGIS, with registry data, big data, and experiments\n  * Independent as well as collaborative and interdisciplinary work, including supervision\n\
     \  "
   location: Paris, France
   title: PhD Candidate
@@ -16,7 +16,7 @@ experience:
   date_end: '2025-08-31'
   date_start: '2024-09-01'
   description: "  * In charge of tutorials for approximately 120 students of the Statistics and Probability course\n
-  * Fully in French, planning, teaching, grading, and administering\n  "
+  * Planning, teaching, grading, and administering, all in the French language\n  "
   location: Paris, France
   title: Teaching and Research Fellow (ATER)
 - company: Whispr Group
@@ -75,8 +75,7 @@ experience:
   date_start: '2017-07-10'
   description: "  * Planned and conducted English lessons for around 350 students\
     \ ages 14 to 18\n  * Worked independently while reinforcing colleagues' previous\
-    \ lessons and Ministry learning objectives\n  * Achieved a high level of satisfaction\
-    \ from students as well as colleagues, superiors, and the Ministry of Education\n\
+    \ lessons and Ministry learning objectives\n  * Achieved “extremely positive” reviews in students’ evaluations and a high degree of satisfaction from colleagues, superiors, and the Ministry of Education\n\
     \  "
   location: Cartagena, Chile
   title: English Teacher
