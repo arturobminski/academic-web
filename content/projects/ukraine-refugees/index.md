@@ -1,6 +1,6 @@
 ---
 title: See the Migrants, Cross the Street? Endogenous Selection Out of Exposure to Migrants
-summary: Using machine learning and natural language processing methods applied to novel big data of establishment reviews, and with a discrete choice model, I analyze whether the everyday consumption and mobility patterns of Polish natives shift with Ukrainian migrant arrival, away from local neighborhoods where the likelihood of migrant exposure is the highest.
+summary: This paper provides evidence of natives’ segregation from potential migrant exposure in response to the arrival of migrants in local neighborhoods. In March and April 2022, over a million Ukrainian refugees arrived in Poland. I find that, in response, natives shift away from restaurants, stores, and other consumption locations with increased migrant presence in their immediate vicinity. This effect is especially pronounced for locations that facilitate social mixing. Moreover, it is reinforced by the opening of new such locations that primarily attract natives. These findings underscore the importance of considering how individual choices influence the likelihood of realizing potential benefits from intergroup contact.
 tags:
   - Economics of Migration
   - Political Economy
@@ -9,7 +9,7 @@ tags:
   - Natural Language Processing
   - Poland
   - Ukraine
-date: '2024-01-20T01:00:00Z'
+date: '2025-03-09T01:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -36,6 +36,4 @@ url_video: ''
 #slides: example
 ---
 
-Using machine learning and natural language processing methods applied to novel big data of establishment reviews, and with a discrete choice model, I analyze whether the everyday consumption and mobility patterns of Polish natives shift with Ukrainian migrant arrival, away from local neighborhoods where the likelihood of migrant exposure is the highest, and the concentration of these effects in places which are otherwise most conducive to social mixing. As such, I consider how individual choices affect whether, and under which conditions, intergroup contact can take place, and hence how likely the potentially positive effects of contact are to be realized.
-
-The study is conducted in the context of the immigration of more than one million Ukrainian refugees to Poland since the Russian full-scale invasion of Ukraine in February 2022.
+This paper provides evidence of natives’ segregation from potential migrant exposure in response to the arrival of migrants in local neighborhoods. In March and April 2022, over a million Ukrainian refugees arrived in Poland. I find that, in response, natives shift away from restaurants, stores, and other consumption locations with increased migrant presence in their immediate vicinity. This effect is especially pronounced for locations that facilitate social mixing. Moreover, it is reinforced by the opening of new such locations that primarily attract natives. These findings underscore the importance of considering how individual choices influence the likelihood of realizing potential benefits from intergroup contact.
