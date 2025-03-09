@@ -1,6 +1,6 @@
 ---
 title: Cultural Effects on Occupational Choice and Labor Market Sorting
-summary: We analyze culturally linked preferences and norms as determinants of educational and occupational choices, with a focus on second generation migrants in Sweden. We also analyze the labor market sorting effects of such preferences. (Joint work with Donia Kamel and Javier Soria Espín.)
+summary: This study investigates peer spillovers across cohorts in high schools on applications to selective higher education programs and subsequent labor market outcomes in Sweden among migrant children. (Joint work with Donia Kamel and Javier Soria Espín.)
 tags:
   - Economics of Migration
   - Labor Economics
@@ -36,6 +36,6 @@ url_video: ''
 
 Joint work with Donia Kamel and Javier Soria Espín.
 
-We analyze culturally linked preferences and norms as determinants of educational and occupational choices, with a focus on second generation migrants in Sweden. We also analyze the labor market sorting effects of such preferences.
+This study investigates peer spillovers across cohorts in high schools on applications to selective higher education programs and subsequent labor market outcomes in Sweden among migrant children. It evaluates the potential for older peers sharing information about options not previously considered or deemed feasible as well as the older peers acting as role models. Such effects may be especially pronounced for migrants, who might otherwise have fewer role models in elite academia within their family or community. By comparing cohorts within the same school and track, the study aims to isolate how much a school’s pipeline to elite universities can influence the choices of current students, after accounting for sorting into neighborhoods and high schools.
 
 The analyses are conducted using registry data from Statistics Sweden, with ethics approval from the Swedish Ethical Review Authority.
