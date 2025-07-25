@@ -1,5 +1,5 @@
 ---
-title: Choosing Distance: How Natives Reduce Migrant Exposure in Daily Life
+title: Choosing Distance. How Natives Reduce Migrant Exposure in Daily Life
 summary: This paper provides evidence of natives’ segregation from potential migrant exposure in response to the arrival of migrants in local neighborhoods. In March and April 2022, over a million Ukrainian refugees arrived in Poland. I find that, in response, natives shift away from restaurants, stores, and other consumption locations with increased migrant presence in their immediate vicinity. This effect is especially pronounced for locations that facilitate social mixing. Moreover, it is reinforced by the opening of new such locations that primarily attract natives. These findings underscore the importance of considering how individual choices influence the likelihood of realizing potential benefits from intergroup contact.
 tags:
   - Economics of Migration
