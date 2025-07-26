@@ -62,5 +62,7 @@ Currently a PhD candidate at the Paris School of Economics, I use tools such as 
 From the Paris School of Economics, I am well trained in using quantitative tools, including R, Stata, and GIS, to analyze data for policy relevant insights. From Whispr Group, I also have 10 years of experience analyzing structured and unstructured qualitative and quantitative data to find and deliver insights to executives in a range of sectors. In addition, I have the theoretical underpinnings in topics such as education, development, political economy, and public economics to put them into context.
 
 My most recent awards are:
-🏅 Young Economist Best Presentation Award, from the Center for Economic Policy Research (CEPR) and the University of Bologna, sponsored by UniCredit Foundation and Marco Fanno Association, in July 2025
-🏅 Best Paper Prize, at the European Bank for Reconstruction and Development (EBRD) and King's College London Workshop on the Economics and Politics of Migration, sponsored by Standard Error Editors, in May 2025
+
+🏅 **Young Economist Best Presentation Award**, from the [Center for Economic Policy Research (CEPR)](https://cepr.org) and the [University of Bologna](https://www.unibo.it/en/homepage), sponsored by UniCredit Foundation and Marco Fanno Association, in July 2025
+
+🏅 **Best Paper Prize**, at the [European Bank for Reconstruction and Development (EBRD)](https://www.ebrd.com) and [King's College London](https://www.kcl.ac.uk) Workshop on the Economics and Politics of Migration, sponsored by Standard Error Editors, in May 2025
