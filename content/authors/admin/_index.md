@@ -57,9 +57,9 @@ user_groups:
   - Visitors
 ---
 
-Currently a PhD candidate at the Paris School of Economics, I use tools such as Python, R, Stata, and QGIS to study international migration, attitudes, educational choices, and health. I am also affiliated with Université Paris 1 Panthéon-Sorbonne, where I have taught Statistics and Probability as well as Econometrics, the Swedish Institute for Social Research (SOFI) at Stockholm University, the Mistra Center for Sustainable Markets (Misum) at the Stockholm School of Economics, and the Institut Convergences Migrations, a CNRS research institute.
+I am a PhD candidate in migration and political economy at the Paris School of Economics. Using Python, R, Stata, and QGIS, with big data, experiments, and administrative data, I study international migration, attitudes, educational choices, and health. I am also affiliated with Université Paris 1 Panthéon-Sorbonne, where I have taught Statistics and Econometrics, the Swedish Institute for Social Research (SOFI) at Stockholm University, the Mistra Center for Sustainable Markets (Misum) at the Stockholm School of Economics, and the Institut Convergences Migrations.
 
-From the Paris School of Economics, I am well trained in using quantitative tools, including R, Stata, and GIS, to analyze data for policy relevant insights. From Whispr Group, I also have 10 years of experience analyzing structured and unstructured qualitative and quantitative data to find and deliver insights to executives in a range of sectors. In addition, I have the theoretical underpinnings in topics such as education, development, political economy, and public economics to put them into context.
+From Whispr Group, I have 10 years of experience analyzing structured and unstructured qualitative and quantitative data to find and deliver insights to executives in a range of sectors. In addition, through my academic and work experience, I have solid theoretical underpinnings in topics such as education, economic development, political economy, and public economics to put them into context.
 
 My most recent awards are:
 
