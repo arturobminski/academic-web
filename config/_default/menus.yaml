@@ -25,7 +25,7 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
-  - name: Long CV
+  - name: Full CV
     url: 'http://files.arturobminski.com/cv-full/'
     weight: 70
   - name: Short CV
