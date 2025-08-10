@@ -4,8 +4,9 @@ summary: "We study how the behavior of older peers influences university track c
 tags:
   - Economics of Migration
   - Labor Economics
-  - Economics of Culture
-  - Registry data
+  - Economics of Education
+  - Peer Effects
+  - Registry Data
   - Sweden
 date: '2023-01-20T00:00:00Z'
 
