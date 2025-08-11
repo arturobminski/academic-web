@@ -14,9 +14,9 @@ date: '2025-03-09T01:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-#image:
+image:
 #  caption: Photo by rawpixel on Unsplash
-#  focal_point: Smart
+  focal_point: Smart
 
 links:
 #  - icon: twitter
