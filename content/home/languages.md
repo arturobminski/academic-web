@@ -5,7 +5,7 @@ feature:
   icon: ':us:'
   icon_pack: emoji
   name: English
-- description: Fluent
+- description: Native
   icon: ':sweden:'
   icon_pack: emoji
   name: Swedish
