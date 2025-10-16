@@ -13,15 +13,14 @@ experience:
   company_url: http://www.whisprgroup.com/
   date_end: ''
   date_start: '2015-06-01'
-  description: "  * Responsible for delivering key insights and recommendations to executives at large multinational organizations in preparation for strategic decisions\n *  My recommendations have helped guide the revamp of the customer loyalty program of one of the world's largest retailers, the sustainability program of a major automotive manufacturer, and provided insights to executives at a Fortune 500 pharmaceutical company for over 10 years\n * Analyzing media coverage, social media, and customer sentiments, over time and in connection with important events\n  * Using Microsoft Excel and AI tools to analyze big data\n * Drafting reports, producing visualizations, and presenting to clients\n * Working both independently and in teams"
+  description: " * Responsible for delivering key insights and recommendations to executives at large multinational organizations in preparation for strategic decisions\n *  My recommendations have helped guide the revamp of the customer loyalty program of one of the world's largest retailers, the sustainability program of a major automotive manufacturer, and provided insights to executives at a Fortune 500 pharmaceutical company for over 10 years\n * Analyzing media coverage, social media, and customer sentiments, over time and in connection with important events\n  * Using Microsoft Excel and AI tools to analyze big data\n * Drafting reports, producing visualizations, and presenting to clients\n * Working both independently and in teams"
   location: Stockholm, Sweden
   title: Analyst
 - company: Université Paris 1 Panthéon-Sorbonne
   company_url: http://www.pantheonsorbonne.fr/
   date_end: '2025-08-31'
   date_start: '2024-09-01'
-  description: "  * In charge of tutorials for approximately 120 students of the Statistics and Probability course\n
-  * Planning, teaching, grading, and administering, all in the French language\n  "
+  description: "  * In charge of tutorials for approximately 120 students of the Statistics and Probability course\n * Planning, teaching, grading, and administering, all in the French language"
   location: Paris, France
   title: Teaching and Research Fellow (ATER)
 - company: Conference on the Future of Europe
@@ -35,16 +34,14 @@ experience:
   company_url: http://www.pantheonsorbonne.fr/
   date_end: '2022-06-30'
   date_start: '2022-01-01'
-  description: "  * In charge of tutorials in Introduction to Econometrics course\n * Prepared\
-    \ classes, taught, replied to students' questions, prepared midterm examinations\
-    \ , and corrected examinations\n  "
+  description: "  * In charge of tutorials in Introduction to Econometrics course\n * Prepared classes, taught, replied to students' questions, prepared midterm examinations, and corrected examinations"
   location: Paris, France
   title: Teaching Assistant
 - company: Stockholm School of Economics
   company_url: http://www.hhs.se/
   date_end: '2021-08-13'
   date_start: '2020-08-17'
-  description: "  * Research design, randomization, survey design, and piloting \n * Quantitative data analysis in Stata and literature research\n * Communication and liaison with external partners, including field staff\n * Projects on immigrant integration, child literacy, political representation, and COVID-19 in Sweden, India, and Uganda"
+  description: " * Research design, randomization, survey design, and piloting\n * Quantitative data analysis in Stata and literature research\n * Communication and liaison with external partners, including field staff\n * Projects on immigrant integration, child literacy, political representation, and COVID-19 in Sweden, India, and Uganda"
   location: Stockholm, Sweden
   title: Research Assistant
 - company: CGIAR
@@ -58,7 +55,7 @@ experience:
   company_url: http://www.mineduc.cl/
   date_end: '2017-11-20'
   date_start: '2017-07-10'
-  description: "  * Planned and conducted English lessons for around 350 students ages 14 to 18\n * Worked independently while reinforcing colleagues' previous lessons and Ministry learning objectives\n * Focused extensively on motivation and engagement with gamification, visual aids, and other interactive elements\n * Achieved “extremely positive” reviews in students’ evaluations and a high degree of satisfaction from colleagues, superiors, and the Ministry of Education"
+  description: "  * Planned and conducted English lessons for around 350 students ages 14 to 18\n * Worked independently while reinforcing colleagues' previous lessons and Ministry learning objectives\n * Focused extensively on motivation and engagement with gamification, visual aids, and other interactive elements\n * Achieved extremely positive reviews in students’ evaluations and a high degree of satisfaction from colleagues, superiors, and the Ministry of Education"
   location: Cartagena, Chile
   title: English Teacher
 headless: true
