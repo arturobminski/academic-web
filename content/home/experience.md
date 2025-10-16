@@ -6,7 +6,7 @@ experience:
   company_url: http://www.parisschoolofeconomics.eu/
   date_end: ''
   date_start: '2021-09-01'
-  description: "  * Migration economics and political economy, with a focus on migrant integration, mental health, education, and labor markets\n  * Quantitative analysis in Python, R, Stata, and QGIS, with administrative registry data, big data, and experimental methods (randomized controlled trials)\n * Communication to diverse audiences, including in international conferences and seminars, as well as teaching Econometrics and Statistics and Probability in English and French at undergraduate level\n * Project management, research and experimental design, and surveying\n * Independent as well as collaborative and interdisciplinary work, including supervision of a programmer and of interns as well as stakeholder outreach"
+  description: "  * Migration economics and political economy, with a focus on migrant integration, mental health, education, and labor markets\n  * Quantitative analysis in Python, R, Stata, and QGIS, with administrative registry data, big data, and experimental methods (randomized controlled trials)\n * Communication to diverse audiences, including in international conferences and seminars, as well as teaching Econometrics and Statistics and Probability in English and French at undergraduate level\n * Project management, research and experimental design, and surveying\n * Independent as well as collaborative and interdisciplinary work, including supervision of a programmer and of interns as well as stakeholder outreach\n * Expected graduation in February 2026"
   location: Paris, France
   title: PhD Candidate
 - company: Whispr Group
@@ -36,18 +36,14 @@ experience:
   date_end: '2022-06-30'
   date_start: '2022-01-01'
   description: "  * In charge of tutorials in Introduction to Econometrics course\n * Prepared\
-    \ classes, taught, replied to students' questions, prepared midterm examinations\
-    \ , and corrected examinations\n  "
+    \ classes, taught, replied to students' questions, prepared midterm examinations, and corrected examinations\n  "
   location: Paris, France
   title: Teaching Assistant
 - company: Stockholm School of Economics
   company_url: http://www.hhs.se/
   date_end: '2021-08-13'
   date_start: '2020-08-17'
-  description: "  * Quantitative analysis in Stata, literature research, project implementation,\
-    \ and liaison with external partners\n  * Projects on immigrant integration, child\
-    \ literacy, political representation, and COVID-19 in Sweden, India, and Uganda\n\
-    \  "
+  description: "  * Research design, randomization, survey design, and piloting\n  * Quantitative data analysis in Stata and literature research\n   * Communication and liaison with external partners, including field staff\n  * Projects on immigrant integration, child literacy, political representation, and COVID-19 in Sweden, India, and Uganda\n  "
   location: Stockholm, Sweden
   title: Research Assistant
 - company: CGIAR
