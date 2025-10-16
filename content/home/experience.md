@@ -50,12 +50,7 @@ experience:
   company_url: http://www.cgiar.org/
   date_end: '2019-08-17'
   date_start: '2019-05-08'
-  description: "  * Identified, negotiated, and collaborated with researchers, government\
-    \ officials, NGOs, and farmers involved in the dissemination of biofortified (nutrient\
-    \ enhanced) crops\n  * Processed monitoring and evaluation data and supervised\
-    \ 7 research assistants’ data work\n  * Planned, organized, and led stakeholder\
-    \ workshops in collaboration with the World Bank\n  * Presented my work, to guide\
-    \ similar projects in other countries, at an Amsterdam conference\n  "
+  description: "  * Identified, negotiated with, and collaborated with stakeholders including researchers, government officials, NGOs, and farmers involved in the dissemination of biofortified (nutrient enhanced) crops\n  * Processed and harmonized monitoring and evaluation data\n * Facilitated capacity building around record keeping practices for agricultural inputs and output\n  * Planned, organized, and led stakeholder workshops for about 100 participants in collaboration with the World Bank\n * Supervised 7 research assistants in data work and event organization\n  * Facilitated knowledge building, guiding similar projects in other countries, at an Amsterdam conference\n  "
   location: Kampala, Uganda
   title: Monitoring and Evaluation Intern
 - company: Chilean Ministry of Education
