@@ -24,7 +24,7 @@ links:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://files.arturobminski.com/papers/migrant-avoidance/'
 url_slides: ''
 url_video: ''
 
