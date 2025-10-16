@@ -59,7 +59,7 @@ experience:
   date_start: '2017-07-10'
   description: "  * Planned and conducted English lessons for around 350 students\
     \ ages 14 to 18\n  * Worked independently while reinforcing colleagues' previous\
-    \ lessons and Ministry learning objectives\n  * Achieved “extremely positive” reviews in students’ evaluations and a high degree of satisfaction from colleagues, superiors, and the Ministry of Education\n\
+    \ lessons and Ministry learning objectives\n * Focused extensively on motivation and engagement with gamification, visual aids, and other interactive elements\n  * Achieved “extremely positive” reviews in students’ evaluations and a high degree of satisfaction from colleagues, superiors, and the Ministry of Education\n\
     \  "
   location: Cartagena, Chile
   title: English Teacher
