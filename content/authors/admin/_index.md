@@ -37,12 +37,12 @@ organizations:
     url: "https://www.hhs.se/misum"
 education:
   courses:
-    - course: PhD in Economics (ongoing)
+    - course: PhD in Economics
       institution: Paris School of Economics & Université Paris 1 Panthéon-Sorbonne
-      year: 2021-
+      year: expected February 2026
     - course: MRes in Applied Economics with a specialization in Public Policy and
         Development
-      institution: Paris School of Economics
+      institution: Paris School of Economics & École des hautes études en sciences sociales
       year: 2020
     - course: BSc in Business and Economics
       institution: Stockholm School of Economics
