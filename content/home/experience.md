@@ -28,8 +28,7 @@ experience:
   company_url: https://futureu.europa.eu
   date_end: '2022-12-02'
   date_start: '2021-11-01'
-  description: "  * Citizen Representative in Panel 3 on Climate, Environment, and Health\n * Working\
-  \ Group on Green Transportation\n  "
+  description: "  * Citizen Representative in Panel 3 on Climate, Environment, and Health, in the working group on Green Transportation\n * Discussions and negotiations with citizens from other European Union member states to find consensus on European policies adapted to diverse European experiences\n * Final report with 49 proposals and 326 concrete measures, 95 percent of which were determined by the European Union institutions to be implementable within current treaties\n  "
   location: Strasbourg, France
   title: Citizen Representative
 - company: Université Paris 1 Panthéon-Sorbonne
