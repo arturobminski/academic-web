@@ -13,7 +13,7 @@ experience:
   company_url: http://www.whisprgroup.com/
   date_end: ''
   date_start: '2015-06-01'
-  description: "  * Responsible for delivering key insights and recommendations to executives at large multinational organizations in preparation for strategic decisions\n  * My recommendations have helped guide the revamp of the customer loyalty program of one of the world's largest retailers, the sustainability program of a major automotive manufacturer, and provided insights to executives at a Fortune 500 pharmaceutical company for over 10 years\n  * Analyzing media coverage, social media, and customer sentiments, over time and in connection with important events\n  * Using Microsoft Excel and AI tools to analyze big data\n   * Drafting reports, producing visualizations, and presenting to clients\n  * Working both independently and in teams\n  "
+  description: "  * Responsible for delivering key insights and recommendations to executives at large multinational organizations in preparation for strategic decisions\n  * My recommendations have helped guide the revamp of the customer loyalty program of a top-50 global retailer, the sustainability program of a top-5 commercial vehicle manufacturer, and provided insights to executives at a Fortune 500 pharmaceutical company for over 10 years\n  * Analyzing media coverage, social media, and customer sentiments, over time and in connection with important events\n  * Using Microsoft Excel and AI tools to analyze big data\n   * Drafting reports, producing visualizations, and presenting to clients\n  * Working both independently and in teams\n  "
   location: Stockholm, Sweden
   title: Analyst
 - company: Université Paris 1 Panthéon-Sorbonne
