@@ -39,7 +39,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: Paris School of Economics & Université Paris 1 Panthéon-Sorbonne
-      year: expected February 2026
+      year: expected March 2026
     - course: MRes in Applied Economics with a specialization in Public Policy and
         Development
       institution: Paris School of Economics & École des hautes études en sciences sociales
