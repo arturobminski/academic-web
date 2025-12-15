@@ -15,7 +15,7 @@ experience:
   date_start: '2015-06-01'
   description: "  * Responsible for delivering key insights and recommendations to executives at large multinational organizations in preparation for strategic decisions\n  * My recommendations have helped guide the revamp of the customer loyalty program of a top-50 global retailer, the sustainability program of a top-5 commercial vehicle manufacturer, and provided insights to executives at a Fortune 500 pharmaceutical company for over 10 years\n  * Analyzing media coverage, social media, and customer sentiments, over time and in connection with important events\n  * Using Microsoft Excel and AI tools to analyze big data\n   * Drafting reports, producing visualizations, and presenting to clients\n  * Working both independently and in teams\n  "
   location: Stockholm, Sweden
-  title: Analyst
+  title: Data and Content Analyst
 - company: Université Paris 1 Panthéon-Sorbonne
   company_url: http://www.pantheonsorbonne.fr/
   date_end: '2025-08-31'
@@ -31,14 +31,6 @@ experience:
   description: "  * Citizen Representative in Panel 3 on Climate, Environment, and Health, in the working group on Green Transportation\n * Discussions and negotiations with citizens from other European Union member states to find consensus on European policies adapted to diverse European experiences\n * Final report with 49 proposals and 326 concrete measures, 95 percent of which were determined by the European Union institutions to be implementable within current treaties\n  "
   location: Strasbourg, France
   title: Citizen Representative
-- company: Université Paris 1 Panthéon-Sorbonne
-  company_url: http://www.pantheonsorbonne.fr/
-  date_end: '2022-06-30'
-  date_start: '2022-01-01'
-  description: "  * In charge of tutorials in Introduction to Econometrics course\n * Prepared\
-    \ classes, taught, replied to students' questions, prepared midterm examinations, and corrected examinations\n  "
-  location: Paris, France
-  title: Teaching Assistant
 - company: Stockholm School of Economics
   company_url: http://www.hhs.se/
   date_end: '2021-08-13'
