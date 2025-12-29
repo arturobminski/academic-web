@@ -33,8 +33,6 @@ organizations:
     url: "https://www.su.se/swedish-institute-for-social-research/"
   - name: Institut Convergences Migrations
     url: "https://www.icmigrations.cnrs.fr"
-  - name: Mistra Center for Sustainable Markets
-    url: "https://www.hhs.se/misum"
 education:
   courses:
     - course: PhD in Economics
@@ -56,7 +54,7 @@ user_groups:
   - Visitors
 ---
 
-I am a PhD candidate in migration and political economy at the Paris School of Economics. Using Python, R, Stata, and QGIS, with big data, experiments, and administrative data, I study international migration, attitudes, educational choices, and health. I am also affiliated with Université Paris 1 Panthéon-Sorbonne, where I have taught Statistics and Econometrics, the Swedish Institute for Social Research (SOFI) at Stockholm University, the Mistra Center for Sustainable Markets (Misum) at the Stockholm School of Economics, and the Institut Convergences Migrations.
+I am a PhD candidate in migration and political economy at the Paris School of Economics. Using Python, R, Stata, and QGIS, with big data, experiments, and administrative data, I study international migration, attitudes, educational choices, and health. I am also affiliated with Université Paris 1 Panthéon-Sorbonne, where I have taught Statistics and Econometrics, the Swedish Institute for Social Research (SOFI) at Stockholm University, and the Institut Convergences Migrations.
 
 From Whispr Group, I have 10 years of experience analyzing structured and unstructured qualitative and quantitative data to find and deliver insights to executives in a range of sectors. In addition, through my academic and work experience, I have solid theoretical underpinnings in topics such as education, economic development, political economy, and public economics to put them into context.
 
