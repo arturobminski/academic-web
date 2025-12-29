@@ -1,6 +1,21 @@
 ---
 title: Social Campaigns in Vulnerable Populations
-summary: Social campaigns promote behavioral change through three mechanisms: seeding (reaching target audiences), dissemination (peer-to-peer sharing), and conversion (behavioral uptake). We model tradeoffs among these mechanisms and apply our framework to a campaign promoting mental health care uptake among Ukrainian refugees in Germany–a vulnerable population facing informational, trust, and stigma barriers. Our randomized controlled trial reveals that: (i) refugee social media communities provide effective seeding, reaching those needing care; (ii) dissemination remains limited–text messages spread most but the campaign did not go viral; (iii) relatable patient testimonials significantly increase conversion compared to informational text or celebrity endorsements. For vulnerable populations facing high barriers, direct campaigns with focused messages may prove more effective short-term, while sustained change may require combining targeted and viral approaches. (Joint work with Alexandra Avdeenko, Luc Behaghel, Esther Duflo, Andreas Ette, Yagan Hazard, Alexander Moldavski, Nicolas Rüsch, and C. Katharina Spiess.)
+summary: >
+  Social campaigns promote behavioral change through three mechanisms: seeding
+  (reaching target audiences), dissemination (peer-to-peer sharing), and
+  conversion (behavioral uptake). We model tradeoffs among these mechanisms and
+  apply our framework to a campaign promoting mental health care uptake among
+  Ukrainian refugees in Germany–a vulnerable population facing informational,
+  trust, and stigma barriers. Our randomized controlled trial reveals that:
+  (i) refugee social media communities provide effective seeding, reaching those
+  needing care; (ii) dissemination remains limited–text messages spread most but
+  the campaign did not go viral; (iii) relatable patient testimonials
+  significantly increase conversion compared to informational text or celebrity
+  endorsements. For vulnerable populations facing high barriers, direct campaigns
+  with focused messages may prove more effective short-term, while sustained
+  change may require combining targeted and viral approaches. (Joint work with
+  Alexandra Avdeenko, Luc Behaghel, Esther Duflo, Andreas Ette, Yagan Hazard,
+  Alexander Moldavski, Nicolas Rüsch, and C. Katharina Spiess.)
 tags:
   - Economics of Migration
   - Health Economics
