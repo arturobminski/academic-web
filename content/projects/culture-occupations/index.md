@@ -1,5 +1,5 @@
 ---
-title: "The Tracks We Don’t Follow: How Older Peers Shape Applications to Selective University Tracks"
+title: "Peer Exposure and Track Choice in Higher Education"
 summary: "Older peers' enrollment in selective tracks carries limited information about younger students' admission chances–yet substantially influence their choices. Exploiting quasi-random cohort-to-cohort variation in older students' enrollment within high school–program cells in Sweden's centralized admissions system, we find that a one percentage point increase in older peers' selective-track enrollment reduces the probability of ranking that track first by 0.21--0.87 percentage points (8--28% of baseline), with effects concentrated in highly selective tracks. Students shift across tracks rather than away from university. Heterogeneity points to social comparison: same-gender peers exert stronger effects; below-median applicants respond primarily to above-median peers; persisting peers matter more than dropouts. Migrants respond similarly to natives, though their Medicine preferences remain remarkably stable. These results suggest students overweight local signals or hold mistaken beliefs, highlighting contexts where targeted information could better align aspirations with ability. (Joint work with Donia Kamel and Javier Soria Espín.)"
 tags:
   - Economics of Migration
