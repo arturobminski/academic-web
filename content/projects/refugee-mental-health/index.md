@@ -1,21 +1,7 @@
 ---
 title: Social Campaigns in Vulnerable Populations
 summary: >
-  Social campaigns promote behavioral change through three mechanisms: seeding
-  (reaching target audiences), dissemination (peer-to-peer sharing), and
-  conversion (behavioral uptake). We model tradeoffs among these mechanisms and
-  apply our framework to a campaign promoting mental health care uptake among
-  Ukrainian refugees in Germany–a vulnerable population facing informational,
-  trust, and stigma barriers. Our randomized controlled trial reveals that:
-  (i) refugee social media communities provide effective seeding, reaching those
-  needing care; (ii) dissemination remains limited–text messages spread most but
-  the campaign did not go viral; (iii) relatable patient testimonials
-  significantly increase conversion compared to informational text or celebrity
-  endorsements. For vulnerable populations facing high barriers, direct campaigns
-  with focused messages may prove more effective short-term, while sustained
-  change may require combining targeted and viral approaches. (Joint work with
-  Alexandra Avdeenko, Luc Behaghel, Esther Duflo, Andreas Ette, Yagan Hazard,
-  Alexander Moldavski, Nicolas Rüsch, and C. Katharina Spiess.)
+  Vulnerable populations facing stigmatized conditions often fail to seek help despite high need. Social campaigns aim to address this gap by combining elements like awareness-raising, peer-to-peer dissemination, and calls for action, yet how these components interact—and potentially conflict–remains poorly understood. We develop a formal model quantifying tradeoffs between message reach, viral spread, and behavioral conversion, and then test it experimentally by promoting mental health care among Ukrainian refugees in Germany (N=1,993). While simple messages spread more readily, relatable patient testimonials proved 85% more effective at converting high-need individuals to action than celebrity endorsements (7.8 vs 4.2 conversions per 100 seeds). Explicit encouragement to share backfired, reducing uptake.  These findings reveal fundamental tensions in designing campaigns for stigmatized behaviors: messages optimized for viral spread may fail to motivate action among those most in need. (Joint work with Alexandra Avdeenko, Luc Behaghel, Esther Duflo, Andreas Ette, Yagan Hazard, Alexander Moldavski, Nicolas Rüsch, and C. Katharina Spiess.)
 tags:
   - Economics of Migration
   - Health Economics
@@ -52,6 +38,6 @@ url_video: ''
 
 Joint work with Alexandra Avdeenko (World Bank), Luc Behaghel (Paris School of Economics, INRAE), Esther Duflo (University of Zurich, Massachussets Institute of Technology), Andreas Ette (Federal Institute for Population Research), Yagan Hazard (Collegio Alberto), Alexander Moldavski (ZI Mannheim), Nicolas Rüsch (Ulm University), and C. Katharina Spiess (Federal Institute for Population Research).
 
-Social campaigns promote behavioral change through three mechanisms: seeding (reaching target audiences), dissemination (peer-to-peer sharing), and conversion (behavioral uptake). We model tradeoffs among these mechanisms and apply our framework to a campaign promoting mental health care uptake among Ukrainian refugees in Germany–a vulnerable population facing informational, trust, and stigma barriers. Our randomized controlled trial reveals that: (i) refugee social media communities provide effective seeding, reaching those needing care; (ii) dissemination remains limited–text messages spread most but the campaign did not go viral; (iii) relatable patient testimonials significantly increase conversion compared to informational text or celebrity endorsements. For vulnerable populations facing high barriers, direct campaigns with focused messages may prove more effective short-term, while sustained change may require combining targeted and viral approaches.
+Vulnerable populations facing stigmatized conditions often fail to seek help despite high need. Social campaigns aim to address this gap by combining elements like awareness-raising, peer-to-peer dissemination, and calls for action, yet how these components interact—and potentially conflict–remains poorly understood. We develop a formal model quantifying tradeoffs between message reach, viral spread, and behavioral conversion, and then test it experimentally by promoting mental health care among Ukrainian refugees in Germany (N=1,993). While simple messages spread more readily, relatable patient testimonials proved 85% more effective at converting high-need individuals to action than celebrity endorsements (7.8 vs 4.2 conversions per 100 seeds). Explicit encouragement to share backfired, reducing uptake.  These findings reveal fundamental tensions in designing campaigns for stigmatized behaviors: messages optimized for viral spread may fail to motivate action among those most in need.
 
 The interventions and experiment are carried out in partnership with established institutions in Germany. Extensions to other countries may be possible at a later date.
