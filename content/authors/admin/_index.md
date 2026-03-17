@@ -1,10 +1,10 @@
 ---
 title: Artur Obminski
-role: PhD Candidate in Economics
+role: PhD Economist
 bio: ""
 interests:
-  - Economics of Migration
   - Political Economy
+  - Economics of Migration
   - Evaluation of Public Policies
   - Development Economics
   - Urban Economics
@@ -25,6 +25,8 @@ social:
     icon_pack: fab
     link: https://github.com/arturobminski
 organizations:
+  - name: Institut des Politiques Publiques
+    url: "https://www.ipp.eu"
   - name: Paris School of Economics
     url: "https://www.parisschoolofeconomics.eu"
   - name: Université Paris 1 Panthéon-Sorbonne
@@ -37,7 +39,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: Paris School of Economics & Université Paris 1 Panthéon-Sorbonne
-      year: expected March 2026
+      year: 2026
     - course: MRes in Applied Economics with a specialization in Public Policy and
         Development
       institution: Paris School of Economics & École des hautes études en sciences sociales
@@ -53,8 +55,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-
-I am a PhD candidate in migration and political economy at the Paris School of Economics. Using Python, R, Stata, and QGIS, with big data, experiments, and administrative data, I study international migration, attitudes, educational choices, and health. I am also affiliated with Université Paris 1 Panthéon-Sorbonne, where I have taught Statistics and Econometrics, the Swedish Institute for Social Research (SOFI) at Stockholm University, and the Institut Convergences Migrations.
+I am a recent PhD graduate in economics, specialized in political economy and migration, from Paris School of Economics. Using Python, R, Stata, and QGIS, with big data, experiments, and administrative data, I studied international migration, attitudes, educational choices, and health. Currently, I am an Economist at the Institut des Politiques Publiques, where I contribute to a large-scale evaluation of French energy savings certificates, a policy mobilizing 6 to 8 billon EUR per year. I am also affiliated with Université Paris 1 Panthéon-Sorbonne, where I have taught Statistics and Econometrics, the Swedish Institute for Social Research (SOFI) at Stockholm University, and the Institut Convergences Migrations.
 
 From Whispr Group, I have 10 years of experience analyzing structured and unstructured qualitative and quantitative data to find and deliver insights to executives in a range of sectors. In addition, through my academic and work experience, I have solid theoretical underpinnings in topics such as education, economic development, political economy, and public economics to put them into context.
 
