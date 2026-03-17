@@ -2,11 +2,18 @@
 active: true
 date_format: Jan 2006
 experience:
+- company: Institut des Politiques Publiques
+  company_url: https://www.ipp.eu
+  date_end: ''
+  date_start: '2026-03-01'
+  description: "  * Processing and harmonizing large administrative datasets, including comprehensive employer-employee linked data, EU Emissions Trading System (ETS) records, and energy consumption data in R with Arrow and DuckDB\n * Part of the first comprehensive evaluation of Energy Savings Certificates (CEE)–a flagship environmental policy of the French government, mobilizing approximately 6 to 8 billion EUR per year"
+  location: Paris, France
+  title: Economist
 - company: Paris School of Economics & Université Paris 1 Panthéon-Sorbonne
   company_url: http://www.parisschoolofeconomics.eu/
-  date_end: ''
+  date_end: '2026-03-01'
   date_start: '2021-09-01'
-  description: "  * Political economy and migration, with a focus on migrant integration, consumption, mental health, education, and labor markets\n * Project management, research and experimental design, including of novel social media study platform with ~2,000 participants, and survey design\n * Quantitative analysis in Python, R, Stata, and QGIS, with large-scale administrative registry data, big data, and experimental methods (randomized controlled trials)\n * Web scraping, machine learning, natural language processing, and discrete choice modeling of 7 million online reviews\n * Communication to diverse audiences, including in international conferences and seminars, as well as teaching Econometrics and Statistics in English and French\n * Independent as well as collaborative and interdisciplinary work, including recruitment and supervision of a programmer and of interns as well as stakeholder outreach\n * Expected graduation in March 2026"
+  description: "  * Political economy and migration, with a focus on migrant integration, consumption, mental health, education, and labor markets\n * Project management, research and experimental design, including of novel social media study platform with ~2,000 participants, and survey design\n * Quantitative analysis in Python, R, Stata, and QGIS, with large-scale administrative registry data, big data, and experimental methods (randomized controlled trials)\n * Web scraping, machine learning, natural language processing, and discrete choice modeling of 7 million online reviews\n * Communication to diverse audiences, including in international conferences and seminars, as well as teaching Econometrics and Statistics in English and French\n * Independent as well as collaborative and interdisciplinary work, including recruitment and supervision of a programmer and of interns as well as stakeholder outreach\n  "
   location: Paris, France
   title: PhD Candidate
 - company: Whispr Group
@@ -45,16 +52,6 @@ experience:
   description: "  * Identified, negotiated with, and collaborated with stakeholders including researchers, government officials, NGOs, and farmers involved in the dissemination of biofortified (nutrient enhanced) crops\n  * Processed and harmonized monitoring and evaluation data\n * Facilitated capacity building around record keeping practices for agricultural inputs and output\n  * Planned, organized, and led stakeholder workshops for about 100 participants in collaboration with the World Bank\n * Supervised 7 research assistants in data work and event organization\n  * Facilitated knowledge building, guiding similar projects in other countries, at an Amsterdam conference\n  "
   location: Kampala, Uganda
   title: Monitoring and Evaluation Intern
-- company: Chilean Ministry of Education
-  company_url: http://www.mineduc.cl/
-  date_end: '2017-11-20'
-  date_start: '2017-07-10'
-  description: "  * Planned and conducted English lessons for around 350 students\
-    \ ages 14 to 18\n  * Worked independently while reinforcing colleagues' previous\
-    \ lessons and Ministry learning objectives\n * Focused extensively on motivation and engagement with gamification, visual aids, and other interactive elements\n  * Achieved “extremely positive” reviews in students’ evaluations and a high degree of satisfaction from colleagues, superiors, and the Ministry of Education\n\
-    \  "
-  location: Cartagena, Chile
-  title: English Teacher
 headless: true
 subtitle: ''
 title: Experience
