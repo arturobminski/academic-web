@@ -39,7 +39,7 @@ coordinates:
 #appointment_url: 'https://calendly.com'
 contact_links:
   - icon: bluesky
-    icon_pack: custom
+    icon_pack: fab
     name: Message me
     link: 'https://bsky.app/profile/arturobminski.com'
 #  - icon: skype

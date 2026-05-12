@@ -16,7 +16,7 @@ social:
     icon_pack: fab
     icon: linkedin
   - icon: bluesky
-    icon_pack: custom
+    icon_pack: fab
     link: https://bsky.app/profile/arturobminski.com
   - icon: github
     icon_pack: fab
