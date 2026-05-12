@@ -18,9 +18,6 @@ social:
   - icon: bluesky
     icon_pack: fab
     link: https://bsky.app/profile/arturobminski.com
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/ArturObminski
   - icon: github
     icon_pack: fab
     link: https://github.com/arturobminski
