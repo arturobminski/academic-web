@@ -2,24 +2,24 @@
 active: true
 feature:
 - description: Fluent
-  icon: ':us:'
-  icon_pack: emoji
+  icon: flag-us
+  icon_pack: custom
   name: English
 - description: Native
-  icon: ':sweden:'
-  icon_pack: emoji
+  icon: flag-se
+  icon_pack: custom
   name: Swedish
 - description: Advanced
-  icon: ':poland:'
-  icon_pack: emoji
+  icon: flag-pl
+  icon_pack: custom
   name: Polish
 - description: Advanced
-  icon: ':es:'
-  icon_pack: emoji
+  icon: flag-es
+  icon_pack: custom
   name: Spanish
 - description: Intermediate/Advanced
-  icon: ':fr:'
-  icon_pack: emoji
+  icon: flag-fr
+  icon_pack: custom
   name: French
 headless: true
 subtitle: ''

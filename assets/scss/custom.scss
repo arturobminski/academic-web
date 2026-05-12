@@ -1,0 +1,73 @@
+// =============================================================================
+// Language flags — featurette widget
+// Render flag SVGs at a consistent rectangular size with a subtle shadow
+// =============================================================================
+
+.featurette-icon img.svg-icon {
+  width: 3rem;
+  height: auto;
+  border-radius: 3px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+  vertical-align: middle;
+}
+
+
+// =============================================================================
+// Experience widget — replace boxed cards with a clean left-accent style
+// =============================================================================
+
+.row.experience .card {
+  border: none;
+  border-left: 3px solid rgba(0, 0, 0, 0.12);
+  border-radius: 0;
+  box-shadow: none;
+  transition: border-left-color 0.2s ease;
+
+  .card-body {
+    padding: 0.75rem 1rem;
+  }
+
+  &:hover {
+    border-left-color: var(--primary, #2962ff);
+  }
+}
+
+// Timeline connector spine
+.row.experience .border-right {
+  border-color: rgba(0, 0, 0, 0.1) !important;
+}
+
+// Timeline dot — unfilled (past role)
+.experience .badge.badge-pill.border {
+  background-color: #fff;
+  border-color: rgba(0, 0, 0, 0.2) !important;
+}
+
+// Timeline dot — filled (current role)
+.experience .badge.badge-pill.exp-fill {
+  background-color: var(--primary, #2962ff);
+  border-color: var(--primary, #2962ff) !important;
+}
+
+
+// =============================================================================
+// Accomplishments widget — replace stacked boxes with horizontal dividers
+// =============================================================================
+
+.card.course {
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-radius: 0;
+  box-shadow: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+
+  .card-body {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
