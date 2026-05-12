@@ -38,10 +38,10 @@ coordinates:
 #  - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM me
-    link: 'https://twitter.com/arturobminski'
+  - icon: bluesky
+    icon_pack: custom
+    name: Message me
+    link: 'https://bsky.app/profile/arturobminski.com'
 #  - icon: skype
 #    icon_pack: fab
 #    name: Skype Me
