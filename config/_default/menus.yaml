@@ -26,9 +26,9 @@ main:
     url: '#contact'
     weight: 60
   - name: Full CV
-    url: 'http://files.arturobminski.com/cv-full/'
+    url: 'https://files.arturobminski.com/cv-full/'
     weight: 70
   - name: Short CV
-    url: 'http://files.arturobminski.com/cv-short/'
+    url: 'https://files.arturobminski.com/cv-short/'
     weight: 72
 
