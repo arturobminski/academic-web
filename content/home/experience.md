@@ -6,7 +6,7 @@ experience:
   company_url: https://www.ipp.eu
   date_end: ''
   date_start: '2026-03-01'
-  description: "  * Processing and harmonizing large administrative datasets, including comprehensive employer-employee linked data, EU Emissions Trading System (ETS) records, and energy consumption data in R with Arrow and DuckDB\n * Part of the first comprehensive evaluation of Energy Savings Certificates (CEE)–a flagship environmental policy of the French government, mobilizing approximately 6 to 8 billion EUR per year"
+  description: "  * Building multi-project administrative data pipelines for internal and external use. Processing and harmonizing large administrative datasets, including comprehensive employer-employee linked data, EU Emissions Trading System (ETS) records, and energy consumption data in R with Arrow and DuckDB\n * Creating a flexible process for simulation of administrative data sources from the French secure CASD platform on any computer. Anonymizing to preserve statistical secrecy while ensuring sufficient similarity with raw data for testing and development purposes.\n * Part of the first comprehensive evaluation of Energy Savings Certificates (CEE)–a flagship environmental policy of the French government, mobilizing approximately 6 to 8 billion EUR per year"
   location: Paris, France
   title: Economist
 - company: Paris School of Economics & Université Paris 1 Panthéon-Sorbonne
