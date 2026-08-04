@@ -22,8 +22,6 @@ social:
     icon_pack: fab
     link: https://github.com/arturobminski
 organizations:
-  - name: Institut des Politiques Publiques
-    url: "https://www.ipp.eu"
   - name: Paris School of Economics
     url: "https://www.parisschoolofeconomics.eu"
   - name: Université Paris 1 Panthéon-Sorbonne
@@ -32,8 +30,6 @@ organizations:
     url: "https://www.su.se/swedish-institute-for-social-research/"
   - name: Rockwool Foundation Berlin
     url: "https://www.rfberlin.com"
-  - name: Institut Convergences Migrations
-    url: "https://www.icmigrations.cnrs.fr"
 education:
   courses:
     - course: PhD in Economics
@@ -54,9 +50,9 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a recent PhD graduate in economics, specialized in political economy and migration, from Paris School of Economics. Using Python, R, Stata, and QGIS, with big data, experiments, and administrative data, I studied international migration, attitudes, educational choices, and health. Currently, I am an Economist at the Institut des Politiques Publiques, where I contribute to a large-scale evaluation of French energy savings certificates, a policy mobilizing 6 to 8 billon EUR per year. I am also affiliated with Université Paris 1 Panthéon-Sorbonne, where I have taught Statistics and Econometrics, the Swedish Institute for Social Research (SOFI) at Stockholm University, Rockwool Foundation, and the Institut Convergences Migrations.
+I am a recent PhD graduate in economics, specialized in political economy and migration, from Paris School of Economics. Using Python, R, Stata, and QGIS, with big data, experiments, and administrative data, I studied international migration, attitudes, educational choices, and health. I was then an Economist at the Institut des Politiques Publiques, where I contributed to a large-scale evaluation of French energy savings certificates, a policy mobilizing 6 to 8 billon EUR per year. Soon, I will be able to announce my next career step. I am also affiliated with Université Paris 1 Panthéon-Sorbonne, where I have taught Statistics and Econometrics, the Swedish Institute for Social Research (SOFI) at Stockholm University, and Rockwool Foundation.
 
-From Whispr Group, I have 10 years of experience analyzing structured and unstructured qualitative and quantitative data to find and deliver insights to executives in a range of sectors. In addition, through my academic and work experience, I have solid theoretical underpinnings in topics such as education, economic development, political economy, and public economics to put them into context.
+From Whispr Group, I have 11 years of experience analyzing structured and unstructured qualitative and quantitative data to find and deliver insights to executives in a range of sectors. In addition, through my academic and work experience, I have solid theoretical underpinnings in topics such as education, economic development, political economy, and public economics to put them into context.
 
 My most recent awards are:
 
