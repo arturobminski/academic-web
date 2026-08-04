@@ -17,7 +17,7 @@ feature:
   icon: flag-es
   icon_pack: custom
   name: Spanish
-- description: Intermediate/Advanced
+- description: Advanced
   icon: flag-fr
   icon_pack: custom
   name: French
