@@ -2,11 +2,18 @@
 active: true
 date_format: Jan 2006
 experience:
+- company: Whispr Group
+  company_url: http://www.whisprgroup.com/
+  date_end: ''
+  date_start: '2015-06-01'
+  description: "  * Responsible for delivering key insights and recommendations to executives at large multinational organizations in preparation for strategic decisions\n  * My recommendations have helped guide the revamp of the customer loyalty program of a top-50 global retailer, the sustainability program of a top-5 commercial vehicle manufacturer, and provided insights to executives at a Fortune 500 pharmaceutical company for over 10 years\n  * Analyzing media coverage, social media, and customer sentiments, over time and in connection with important events\n  * Using Microsoft Excel and AI tools to analyze big data\n   * Drafting reports, producing visualizations, and presenting to clients\n  * Working both independently and in teams\n  "
+  location: Stockholm, Sweden
+  title: Data and Content Analyst
 - company: Institut des Politiques Publiques
   company_url: https://www.ipp.eu
-  date_end: ''
+  date_end: '2026-07-10'
   date_start: '2026-03-01'
-  description: "  * Building multi-project administrative data pipelines for internal and external use. Processing and harmonizing large administrative datasets, including comprehensive employer-employee linked data, EU Emissions Trading System (ETS) records, and energy consumption data in R with Arrow and DuckDB\n * Creating a flexible process for simulation of administrative data sources from the French secure CASD platform on any computer. Anonymizing to preserve statistical secrecy while ensuring sufficient similarity with raw data for testing and development purposes.\n * Part of the first comprehensive evaluation of Energy Savings Certificates (CEE)–a flagship environmental policy of the French government, mobilizing approximately 6 to 8 billion EUR per year"
+  description: "  * Built multi-project administrative data pipelines for internal and external use. Processed and harmonized large administrative datasets, including comprehensive employer-employee linked data, EU Emissions Trading System (ETS) records, and energy consumption data in R with Arrow and DuckDB\n * Created a flexible process for simulation of administrative data sources from the French secure CASD platform on any computer. Anonymized to preserve statistical secrecy while ensuring sufficient similarity with raw data for testing and development purposes.\n * Part of the first comprehensive evaluation of Energy Savings Certificates (CEE)–a flagship environmental policy of the French government, mobilizing approximately 6 to 8 billion EUR per year"
   location: Paris, France
   title: Economist
 - company: Paris School of Economics & Université Paris 1 Panthéon-Sorbonne
@@ -16,13 +23,6 @@ experience:
   description: "  * Political economy and migration, with a focus on migrant integration, consumption, mental health, education, and labor markets\n * Project management, research and experimental design, including of novel social media study platform with ~2,000 participants, and survey design\n * Quantitative analysis in Python, R, Stata, and QGIS, with large-scale administrative registry data, big data, and experimental methods (randomized controlled trials)\n * Web scraping, machine learning, natural language processing, and discrete choice modeling of 7 million online reviews\n * Communication to diverse audiences, including in international conferences and seminars, as well as teaching Econometrics and Statistics in English and French\n * Independent as well as collaborative and interdisciplinary work, including recruitment and supervision of a programmer and of interns as well as stakeholder outreach\n  "
   location: Paris, France
   title: PhD Candidate
-- company: Whispr Group
-  company_url: http://www.whisprgroup.com/
-  date_end: ''
-  date_start: '2015-06-01'
-  description: "  * Responsible for delivering key insights and recommendations to executives at large multinational organizations in preparation for strategic decisions\n  * My recommendations have helped guide the revamp of the customer loyalty program of a top-50 global retailer, the sustainability program of a top-5 commercial vehicle manufacturer, and provided insights to executives at a Fortune 500 pharmaceutical company for over 10 years\n  * Analyzing media coverage, social media, and customer sentiments, over time and in connection with important events\n  * Using Microsoft Excel and AI tools to analyze big data\n   * Drafting reports, producing visualizations, and presenting to clients\n  * Working both independently and in teams\n  "
-  location: Stockholm, Sweden
-  title: Data and Content Analyst
 - company: Université Paris 1 Panthéon-Sorbonne
   company_url: http://www.pantheonsorbonne.fr/
   date_end: '2025-08-31'
