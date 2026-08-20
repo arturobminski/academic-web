@@ -22,13 +22,13 @@ main:
   - name: Resources
     url: resources/
     weight: 55
+  - name: CV
+    url: 'https://files.arturobminski.com/cv-short/'
+    weight: 57
   - name: Contact
     url: '#contact'
     weight: 60
   #- name: Full CV
   #  url: 'https://files.arturobminski.com/cv-full/'
   #  weight: 70
-  - name: CV
-    url: 'https://files.arturobminski.com/cv-short/'
-    weight: 72
 
