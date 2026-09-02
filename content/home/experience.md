@@ -2,9 +2,16 @@
 active: true
 date_format: Jan 2006
 experience:
-- company: Whispr Group
-  company_url: http://www.whisprgroup.com/
+- company: European Commission Joint Research Centre
+  company_url: https://algorithmic-transparency.ec.europa.eu/index_en
   date_end: ''
+  date_start: '2026-09-15'
+  description: "  * Applied data scientist analyzing and auditing algorithmic and AI systems, datasets, and risk assessments\n  * Providing scientific and technical guidance to the regulation of very large online platforms (VLOP) and search engines (VLOSE) based on the Digital Services Act\n  * Collaborating with legal and policy colleagues in DG CNECT, academic researchers, and civil society\n  "
+  location: Brussels, Belgium
+  title: Scientific Policy Officer
+- company: Whispr Group
+  company_url: https://www.whisprgroup.com/
+  date_end: '2026-09-15'
   date_start: '2015-06-01'
   description: "  * Responsible for delivering key insights and recommendations to executives at large multinational organizations in preparation for strategic decisions\n  * My recommendations have helped guide the revamp of the customer loyalty program of a top-50 global retailer, the sustainability program of a top-5 commercial vehicle manufacturer, and provided insights to executives at a Fortune 500 pharmaceutical company for over 10 years\n  * Analyzing media coverage, social media, and customer sentiments, over time and in connection with important events\n  * Using Microsoft Excel and AI tools to analyze big data\n   * Drafting reports, producing visualizations, and presenting to clients\n  * Working both independently and in teams\n  "
   location: Stockholm, Sweden
@@ -17,14 +24,14 @@ experience:
   location: Paris, France
   title: Economist
 - company: Paris School of Economics & Université Paris 1 Panthéon-Sorbonne
-  company_url: http://www.parisschoolofeconomics.eu/
+  company_url: https://www.parisschoolofeconomics.eu/
   date_end: '2026-03-01'
   date_start: '2021-09-01'
   description: "  * Political economy and migration, with a focus on migrant integration, consumption, mental health, education, and labor markets\n * Project management, research and experimental design, including of novel social media study platform with ~2,000 participants, and survey design\n * Quantitative analysis in Python, R, Stata, and QGIS, with large-scale administrative registry data, big data, and experimental methods (randomized controlled trials)\n * Web scraping, machine learning, natural language processing, and discrete choice modeling of 7 million online reviews\n * Communication to diverse audiences, including in international conferences and seminars, as well as teaching Econometrics and Statistics in English and French\n * Independent as well as collaborative and interdisciplinary work, including recruitment and supervision of a programmer and of interns as well as stakeholder outreach\n  "
   location: Paris, France
   title: PhD Candidate
 - company: Université Paris 1 Panthéon-Sorbonne
-  company_url: http://www.pantheonsorbonne.fr/
+  company_url: https://www.pantheonsorbonne.fr/
   date_end: '2025-08-31'
   date_start: '2024-09-01'
   description: "  * In charge of tutorials for approximately 120 students of the Statistics and Probability course\n
@@ -39,14 +46,14 @@ experience:
   location: Strasbourg, France
   title: Citizen Representative
 - company: Stockholm School of Economics
-  company_url: http://www.hhs.se/
+  company_url: https://www.hhs.se/
   date_end: '2021-08-13'
   date_start: '2020-08-17'
   description: "  * Research design, randomization, survey design, and piloting\n  * Quantitative data analysis in Stata and literature research\n   * Communication and liaison with external partners, including field staff\n  * Projects on immigrant integration, child literacy, political representation, and COVID-19 in Sweden, India, and Uganda\n  "
   location: Stockholm, Sweden
   title: Research Assistant
 - company: CGIAR
-  company_url: http://www.cgiar.org/
+  company_url: https://www.cgiar.org/
   date_end: '2019-08-17'
   date_start: '2019-05-08'
   description: "  * Identified, negotiated with, and collaborated with stakeholders including researchers, government officials, NGOs, and farmers involved in the dissemination of biofortified (nutrient enhanced) crops\n  * Processed and harmonized monitoring and evaluation data\n * Facilitated capacity building around record keeping practices for agricultural inputs and output\n  * Planned, organized, and led stakeholder workshops for about 100 participants in collaboration with the World Bank\n * Supervised 7 research assistants in data work and event organization\n  * Facilitated knowledge building, guiding similar projects in other countries, at an Amsterdam conference\n  "
