@@ -290,13 +290,14 @@ function initMap() {
     } else {
       let map = new L.map('map').setView([lat, lng], zoom);
       if (map_provider === 'mapbox' && api_key.length) {
-        L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+        L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}{r}?access_token={accessToken}', {
           attribution:
             'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
           tileSize: 512,
-          maxZoom: 18,
+          maxZoom: 22,
           zoomOffset: -1,
-          id: 'mapbox/streets-v11',
+          detectRetina: true,
+          id: 'mapbox/light-v11',
           accessToken: api_key,
         }).addTo(map);
       } else {
