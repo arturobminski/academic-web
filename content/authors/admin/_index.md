@@ -1,13 +1,12 @@
 ---
 title: Artur Obminski
-role: PhD Economist
+role: Scientific Project Officer
 bio: ""
 interests:
+  - Algorithmic and AI systems
   - Political Economy
   - Economics of Migration
   - Evaluation of Public Policies
-  - Development Economics
-  - Urban Economics
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,10 +21,8 @@ social:
     icon_pack: fab
     link: https://github.com/arturobminski
 organizations:
-  - name: Paris School of Economics
-    url: "https://www.parisschoolofeconomics.eu"
-  - name: Université Paris 1 Panthéon-Sorbonne
-    url: "https://www.pantheonsorbonne.fr"
+  - name: European Commission JRC
+    url: "https://algorithmic-transparency.ec.europa.eu/index_en"
   - name: Swedish Institute for Social Research
     url: "https://www.su.se/swedish-institute-for-social-research/"
   - name: Rockwool Foundation Berlin
