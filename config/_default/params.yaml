@@ -144,10 +144,7 @@ search:
     show_logo: false
 map:
   provider: mapbox
-  # Get a free public token at https://account.mapbox.com/access-tokens/
-  # (free tier: 50,000 map loads/month). Restrict it to your site's domain
-  # under "URL restrictions" on that page so no one else can spend your quota.
-  api_key: 'PASTE_YOUR_MAPBOX_PUBLIC_TOKEN_HERE'
+  api_key: 'pk.eyJ1IjoiYXJ0dXJvYm1pbnNraSIsImEiOiJjbXRrOGM2ZG8wbTlnMndzYWdlMnhsdWZuIn0.Y2NuIdEtbBCiZU-KiJExFw'
   zoom: 15
 marketing:
   google_analytics: ''
