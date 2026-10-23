@@ -24,7 +24,7 @@ twitter: ''
 #phone: 888 888 88 88
 address:
   #street: X
-  city: Brussels
+  city: 'Brussels, Belgium'
   #region: CA
   #postcode: 'X'
   country: Belgium
