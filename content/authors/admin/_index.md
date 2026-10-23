@@ -47,7 +47,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-At the European Centre for Algorithmic Transparency (ECAT), part of the Joint Research Centre (JRC) of the European Commission, I contribute to the enforcement of the Digital Services Act through investigations and risk assessments of very large online platforms and very large online search engines. I use data science and my knowledge of algorithmic and AI systems to evaluate the compliance of platforms with DSA requirements for user protection including ad transparency, combating dark patterns, and a special protection of minors.
+At the European Centre for Algorithmic Transparency (ECAT), part of the Joint Research Centre (JRC) of the European Commission, I contribute to the enforcement of the Digital Services Act through investigations and risk assessments of very large online platforms and very large online search engines. I use data science and my knowledge of algorithmic and AI systems to evaluate the compliance of platforms with DSA requirements for user protection.
 
 Before that, I completed a PhD in economics at the Paris School of Economics, specialized in political economy and migration. Using Python, R, Stata, and QGIS, with big data, experiments, and administrative data, I studied international migration, attitudes, educational choices, and health. I was then an Economist at the Institut des Politiques Publiques, where I contributed to a large-scale evaluation of French energy savings certificates, a policy mobilizing 6 to 8 billon EUR per year. I am also affiliated with the Swedish Institute for Social Research (SOFI) at Stockholm University, and Rockwool Foundation.
 
