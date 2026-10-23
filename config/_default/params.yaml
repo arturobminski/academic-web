@@ -23,15 +23,15 @@ twitter: ''
 #email: form@arturobminski.com
 #phone: 888 888 88 88
 address:
-  street: Rue du Champ de Mars 21
+  #street: X
   city: Brussels
   #region: CA
-  postcode: '1050'
+  #postcode: 'X'
   country: Belgium
   country_code: BE
-coordinates:
-  latitude: '50.8386'
-  longitude: '4.36525'
+#coordinates:
+#  latitude: '50.8386'
+#  longitude: '4.36525'
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
@@ -142,10 +142,10 @@ search:
     api_key: ''
     index_name: ''
     show_logo: false
-map:
-  provider: mapbox
-  api_key: 'pk.eyJ1IjoiYXJ0dXJvYm1pbnNraSIsImEiOiJjbXRrOGM2ZG8wbTlnMndzYWdlMnhsdWZuIn0.Y2NuIdEtbBCiZU-KiJExFw'
-  zoom: 15
+#map:
+#  provider: mapbox
+#  api_key: 'pk.eyJ1IjoiYXJ0dXJvYm1pbnNraSIsImEiOiJjbXRrOGM2ZG8wbTlnMndzYWdlMnhsdWZuIn0.Y2NuIdEtbBCiZU-KiJExFw'
+#  zoom: 15
 marketing:
   google_analytics: ''
   google_tag_manager: ''
